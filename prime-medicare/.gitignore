@@ -65,3 +65,16 @@ Thumbs.db
 
 # Misc
 .env.vault
+# Figma extraction — raw/intermediate data, regenerable via lib/figma/client.ts
+about-raw.json
+about-parsed.json
+about-classification.json
+about-clusters-summary.json
+about-cluster-cluster-*.json
+corporate-raw.json
+corporate-parsed.json
+corporate-classification.json
+corporate-clusters-summary.json
+corporate-cluster-cluster-*.json
+home-cluster-cluster-*.json
+
