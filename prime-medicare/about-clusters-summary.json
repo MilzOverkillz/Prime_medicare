@@ -1,0 +1,452 @@
+[
+  {
+    "id": "cluster-1",
+    "yRange": [
+      146,
+      194
+    ],
+    "memberNames": [
+      "Frame 368"
+    ],
+    "memberIds": [
+      "627:259"
+    ],
+    "combinedTexts": [
+      "CONTACT US",
+      "ABOUT US",
+      "CORPORATE",
+      "SERVICES"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-2",
+    "yRange": [
+      258,
+      577
+    ],
+    "memberNames": [
+      "Trusted Care, Better Lives",
+      "Innovating Healthcare, Empowering Lives",
+      "Frame 63"
+    ],
+    "memberIds": [
+      "627:292",
+      "627:278",
+      "627:279"
+    ],
+    "combinedTexts": [
+      "Trusted Care, Better Lives",
+      "Innovating Healthcare, Empowering Lives",
+      "Contact Us"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-3",
+    "yRange": [
+      625,
+      707
+    ],
+    "memberNames": [
+      "Group 485",
+      "Trusted by 1000+ patients"
+    ],
+    "memberIds": [
+      "627:285",
+      "627:291"
+    ],
+    "combinedTexts": [
+      "Trusted by 1000+ patients"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-4",
+    "yRange": [
+      775,
+      1257
+    ],
+    "memberNames": [
+      "Rectangle 922",
+      "Rectangle 923",
+      "Rectangle 924",
+      "Rectangle 928",
+      "50+",
+      "Medical Professionals",
+      "Rectangle 929",
+      "10K+",
+      "Patients Served",
+      "Rectangle 930",
+      "15+",
+      "Healthcare Services",
+      "Rectangle 925",
+      "Rectangle 927",
+      "Connected Healthcare",
+      "Connecting patients and healthcare professionals through seamless, accessible, digitally enabled care experiences."
+    ],
+    "memberIds": [
+      "627:274",
+      "627:275",
+      "627:277",
+      "627:296",
+      "627:300",
+      "627:301",
+      "627:297",
+      "627:298",
+      "627:299",
+      "627:302",
+      "627:303",
+      "627:304",
+      "627:276",
+      "627:293",
+      "627:294",
+      "627:295"
+    ],
+    "combinedTexts": [
+      "50+",
+      "Medical Professionals",
+      "10K+",
+      "Patients Served",
+      "15+",
+      "Healthcare Services",
+      "Connected Healthcare",
+      "Connecting patients and healthcare professionals through \nseamless, accessible, "
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-5",
+    "yRange": [
+      1380,
+      1740
+    ],
+    "memberNames": [
+      "Frame 319"
+    ],
+    "memberIds": [
+      "627:223"
+    ],
+    "combinedTexts": [
+      "A global network, built for local, personal care",
+      "Prime Medicare is a digitally enabled healthcare provider delivering comprehensi",
+      "About Us"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-6",
+    "yRange": [
+      1860,
+      2772
+    ],
+    "memberNames": [
+      "Rectangle 880",
+      "Group 451",
+      "Prime Medicare is committed to To deliver world-class, accessible healthcare by combining advanced medical expertise with our Digi-physical care model, providing convenient, personalized, and high-quality care across Sri Lanka. We believe in the following three key ingredients:",
+      "Group 600",
+      "Group 602",
+      "Group 604"
+    ],
+    "memberIds": [
+      "627:227",
+      "627:228",
+      "627:231",
+      "627:392",
+      "627:401",
+      "627:413"
+    ],
+    "combinedTexts": [
+      "Our Mission",
+      "Total health care for your family — wherever they are",
+      "Prime Medicare is committed to To deliver world-class, accessible healthcare by ",
+      "Digital Access",
+      "Access quality healthcare anytime, anywhere through convenient digital consultat",
+      "In Person Care",
+      "Receive compassionate, professional healthcare through trusted in-person consult",
+      "Personalized Care"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-7",
+    "yRange": [
+      2879,
+      3967
+    ],
+    "memberNames": [
+      "Frame 343"
+    ],
+    "memberIds": [
+      "627:232"
+    ],
+    "combinedTexts": [
+      "Our Remote-Only GP Appointments",
+      "With global healthcare experience, we connect patients with trusted local and in",
+      "What is a Digi-Physical Service?",
+      "Start your healthcare journey with a convenient digital consultation. If needed,"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-8",
+    "yRange": [
+      4113,
+      4281
+    ],
+    "memberNames": [
+      "Group 540"
+    ],
+    "memberIds": [
+      "627:306"
+    ],
+    "combinedTexts": [
+      "Why Choose Us",
+      "Expert care. Modern facilities. Better outcomes."
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-9",
+    "yRange": [
+      4329,
+      4765
+    ],
+    "memberNames": [
+      "Group 646",
+      "Group 643",
+      "Group 642",
+      "Group 644",
+      "Group 645",
+      "Group 651"
+    ],
+    "memberIds": [
+      "627:309",
+      "627:319",
+      "627:348",
+      "627:335",
+      "627:330",
+      "627:523"
+    ],
+    "combinedTexts": [
+      "Expert Medical Team",
+      "Expert doctors delivering specialized care with the highest standards.",
+      "Easy Appointments",
+      "Book appointments online in minutes and skip the longwaiting lines.",
+      "Secure & Confidential",
+      "Your health information is protected with top-level security and strict privacy ",
+      "Patient-Centered Care",
+      "We listen, we care, and we create personalized treatment plans for your better w"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-10",
+    "yRange": [
+      4813,
+      4938
+    ],
+    "memberNames": [
+      "Rectangle 979",
+      "Better Healthcare Starts With Better Access",
+      "Group 650",
+      "Frame 63",
+      "Better healthcare starts with easy access to trusted medical services, expert professionals, timely consultations, and personalized support designed around your needs, wherever you are."
+    ],
+    "memberIds": [
+      "627:509",
+      "627:510",
+      "627:512",
+      "627:517",
+      "627:511"
+    ],
+    "combinedTexts": [
+      "Better Healthcare Starts  With Better Access",
+      "Contact Us",
+      "Better healthcare starts with easy access to trusted medical services, expert pr"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-11",
+    "yRange": [
+      5069,
+      5171
+    ],
+    "memberNames": [
+      "Our Team",
+      "Meet the experts behind your care."
+    ],
+    "memberIds": [
+      "627:247",
+      "627:248"
+    ],
+    "combinedTexts": [
+      "Our Team",
+      "Meet the experts behind your care."
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-12",
+    "yRange": [
+      5249,
+      5799
+    ],
+    "memberNames": [
+      "Rectangle 942",
+      "Rectangle 944",
+      "Rectangle 946",
+      "Rectangle 948",
+      "Dr. Shiraz Deen",
+      "Dr. Shifaz Deen",
+      "Dr. Nandaka Dickwella",
+      "Dr. Fathima Shahnaz",
+      "General Practitioner",
+      "General Practitioner",
+      "General Practitioner",
+      "General Practitioner",
+      "Rectangle 943",
+      "Rectangle 945",
+      "Rectangle 947",
+      "Rectangle 949",
+      "Group 609",
+      "Group 610",
+      "Group 613",
+      "Group 617",
+      "Group 614",
+      "Group 612",
+      "Group 615",
+      "Group 616"
+    ],
+    "memberIds": [
+      "627:376",
+      "627:380",
+      "627:384",
+      "627:388",
+      "627:378",
+      "627:382",
+      "627:386",
+      "627:390",
+      "627:379",
+      "627:383",
+      "627:387",
+      "627:391",
+      "627:377",
+      "627:381",
+      "627:385",
+      "627:389",
+      "627:422",
+      "627:426",
+      "627:430",
+      "627:434",
+      "627:438",
+      "627:442",
+      "627:446",
+      "627:450"
+    ],
+    "combinedTexts": [
+      "Dr. Shiraz Deen",
+      "Dr. Shifaz Deen",
+      "Dr. Nandaka Dickwella",
+      "Dr. Fathima Shahnaz",
+      "General Practitioner",
+      "General Practitioner",
+      "General Practitioner",
+      "General Practitioner"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-13",
+    "yRange": [
+      5974,
+      6144
+    ],
+    "memberNames": [
+      "Frame 325"
+    ],
+    "memberIds": [
+      "627:252"
+    ],
+    "combinedTexts": [
+      "Our Certifications",
+      "Quality & Compliance   Committed to patient care."
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-14",
+    "yRange": [
+      6245,
+      6696
+    ],
+    "memberNames": [
+      "Rectangle 289",
+      "Rectangle 931",
+      "Rectangle 932",
+      "Group 465",
+      "Group 466",
+      "Group 467",
+      "Rectangle 965",
+      "Rectangle 967",
+      "Rectangle 966",
+      "Sri Lanka Medical Council",
+      "Ministry of Health, Sri Lanka",
+      "Prime Medicare UK",
+      "Registered practitioners",
+      "Registered clinic",
+      "Group clinical governance"
+    ],
+    "memberIds": [
+      "627:255",
+      "627:256",
+      "627:257",
+      "627:357",
+      "627:363",
+      "627:370",
+      "627:504",
+      "627:505",
+      "627:506",
+      "627:362",
+      "627:368",
+      "627:374",
+      "627:258",
+      "627:369",
+      "627:375"
+    ],
+    "combinedTexts": [
+      "Sri Lanka Medical Council",
+      "Ministry of Health, Sri Lanka",
+      "Prime Medicare UK",
+      "Registered practitioners",
+      "Registered clinic",
+      "Group clinical governance"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-15",
+    "yRange": [
+      6852,
+      8115
+    ],
+    "memberNames": [
+      "Group 579",
+      "Rectangle 969",
+      "Rectangle 968"
+    ],
+    "memberIds": [
+      "627:454",
+      "627:507",
+      "627:508"
+    ],
+    "combinedTexts": [
+      "Your Health Start With \nOne Appointment",
+      "Book an Appointment",
+      "Prime Medicare Colombo 19, St Albans Place, Colombo",
+      "011 424 2030"
+    ],
+    "hasComponentInstance": false
+  }
+]
