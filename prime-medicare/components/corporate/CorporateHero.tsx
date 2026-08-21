@@ -3,14 +3,23 @@
 
 import Image from "next/image";
 import { ArrowRight } from "lucide-react";
+import Navbar from "./Navbar";
 
 export default function CorporateHero() {
   return (
-    <section className="relative overflow-hidden bg-[#f4f8fc]">
-      <div className="mx-auto grid max-w-7xl grid-cols-1 items-center gap-8 px-6 py-14 md:grid-cols-2 md:px-10 md:py-20">
+    <section className="relative overflow-hidden">
+      {/* City skyline background, faded under a white/blue gradient */}
+      <div
+        className="absolute inset-0 bg-cover bg-center "
+        style={{ backgroundImage: "url('/images/corporate-hero-bg.png')" }}
+      />
+      <div className="absolute inset-0 " />
 
+      <Navbar />
+
+      <div className="relative z-10 mx-auto grid max-w-10xl h-[900px] grid-cols-1 items-center gap-8 px-6 pb-14 pt-28 md:grid-cols-2 md:px-10 md:pb-20 md:pt-32">
         <div>
-          <h1 className="text-3xl font-extrabold leading-tight text-[#1e293b] sm:text-4xl md:text-5xl">
+          <h1 className="text-6xl font-extrabold leading-tight text-[#1e293b] mt-1 sm:text-5xl md:text-7xl">
             Driving Business
             <br />
             Excellence Through
@@ -35,8 +44,7 @@ export default function CorporateHero() {
           </a>
         </div>
 
-        {/* Right column — doctor + tech hexagon image */}
-        <div className="relative h-[320px] w-full sm:h-[380px] md:h-[440px]">
+        <div className="relative h-[818px] w-full sm:h-[380px] md:h-[900px]">
           <Image
             src="/images/corporate-hero.png"
             alt="Doctor with digital health interface"
@@ -47,10 +55,10 @@ export default function CorporateHero() {
       </div>
 
       {/* Bottom scrolling marquee */}
-      <div className="overflow-hidden bg-[#1565c0] py-3">
+      <div className="relative z-10 overflow-hidden bg-[#1565c0] py-3">
         <div className="animate-marquee flex w-max gap-16 whitespace-nowrap">
           {Array.from({ length: 16 }).map((_, i) => (
-            <span key={i} className="text-sm font-semibold tracking-wide text-white">
+            <span key={i} className="text-new/Body Large font-regular tracking-wide text-white">
               Prime Medicare
             </span>
           ))}

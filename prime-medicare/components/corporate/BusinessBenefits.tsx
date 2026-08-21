@@ -51,7 +51,7 @@ export default function BusinessPackages() {
   const [activeTab, setActiveTab] = useState<Tier>("essential");
 
   return (
-    <section className="mx-auto max-w-6xl px-4 py-16 text-center md:px-8">
+    <section className="mx-auto flex min-h-[1200px] max-w-7xl flex-col px-4 py-16 text-center md:px-8">
       {/* Header */}
       <p className="mb-2 text-sm font-semibold text-[#38bdf8]">Our Business Packages</p>
       <h2 className="mb-4 text-3xl font-extrabold leading-tight text-[#1e293b] sm:text-4xl">
@@ -80,8 +80,8 @@ export default function BusinessPackages() {
         ))}
       </div>
 
-      {/* Cards */}
-      <div className="grid grid-cols-1 items-start gap-6 md:grid-cols-3">
+      {/* Cards — items-center lets the featured card extend both above AND below the row */}
+      <div className="grid grid-cols-1 items-center gap-6 md:grid-cols-3">
         {(Object.keys(packages) as Tier[]).map((tier) => {
           const pkg = packages[tier];
           const isFeatured = tier === "professional";
@@ -91,8 +91,8 @@ export default function BusinessPackages() {
               key={tier}
               className={`relative flex flex-col rounded-2xl border p-6 text-left ${
                 isFeatured
-                  ? "border-2 border-[#1565c0] shadow-lg md:-mt-4"
-                  : "border-slate-200"
+                  ? "h-[800px] border-2 border-[#1565c0] shadow-lg"
+                  : "h-[680px] border-slate-200"
               }`}
             >
               {isFeatured && (
@@ -102,7 +102,8 @@ export default function BusinessPackages() {
                 </span>
               )}
 
-              <div className="mb-3 flex h-9 w-9 items-center justify-center rounded-full bg-[#f8fafc]">
+              {/* mx-auto centers the icon badge above the title */}
+              <div className="mb-3 flex h-9 w-9 items-center justify-center rounded-full bg-[#f8fafc] mx-auto">
                 <div className="h-4 w-4 rounded-sm bg-[#1e293b]" />
               </div>
 

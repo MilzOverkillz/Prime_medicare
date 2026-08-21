@@ -11,7 +11,7 @@ export default function Services() {
         {/* Header row: label + heading on left, description on right */}
         <div className="grid grid-cols-1 gap-6 md:grid-cols-2 md:gap-12">
           <div>
-            <p className="mb-2 text-sm font-semibold text-[#38bdf8]">Our Services</p>
+            <p className="mb-2 text-sm font-semibold text-[#00a6a6]">Our Services</p>
             <h2 className="max-w-xs text-3xl font-extrabold leading-tight text-[#1e293b] sm:max-w-sm sm:text-4xl">
               Accessible to the Community
             </h2>

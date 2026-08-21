@@ -1,5 +1,6 @@
 // Hero.tsx
 import React from 'react';
+import Image from "next/image";
 import { Heart, ShieldCheck, Stethoscope, Plus } from 'lucide-react';
 import Navbar from './Navbar';
 
@@ -10,6 +11,13 @@ const calloutLabels = [
   { text: 'Expert\nDoctors', className: 'left-[2%] top-[44%] text-right' },
   { text: 'Patient\nFirst\nApproach', className: 'right-[4%] top-[44%] text-left' },
   { text: 'Advanced\nMedical\nCare', className: 'right-[100%] top-[76%] text-right' },
+];
+
+const partnerImages = [
+  { id: "home-partner1", src: "/images/home-patients.png", alt: "Partner 1" },
+  { id: "home-partner2", src: "/images/home-patients.png", alt: "Partner 2" },
+  { id: "home-partner3", src: "/images/home-patients.png", alt: "Partner 3" },
+  { id: "home-partner4", src: "/images/home-patients.png", alt: "Partner 3" },
 ];
 
 export default function Hero() {
@@ -31,14 +39,14 @@ export default function Hero() {
       <Navbar />
 
       {/* 2-column grid, not 3 — this is what keeps callouts aligned over the doctor */}
-      <div className="relative z-10 mx-auto grid h-full max-w-7xl grid-cols-1 items-center gap-8 px-6 md:grid-cols-2 md:px-10">
+      <div className="relative z-10 mx-auto grid h-full max-w-7xl grid-cols-1 items-center gap-8 px-6 md-10  md:grid-cols-2 md:px-18">
         {/* Left column — copy */}
         <div className="flex flex-col">
-          <p className="mb-2 text-sm font-medium text-white/80">
+          <p className="mb-2 text-10sm font-medium text-white/80">
             Reliable Care, Anywhere Anytime
           </p>
 
-          <h1 className="max-w-md text-4xl font-extrabold leading-[1.1] text-white sm:text-5xl">
+          <h1 className="max-w-md text-8xl font-extrabold leading-[1.1] text-white sm:text-6xl">
             <span className="block">Compassionate</span>
             <span className="block">Care. Trusted</span>
             <span className="block">Doctors.</span>
@@ -74,22 +82,27 @@ export default function Hero() {
             </button>
           </form>
 
-          <div className="mt-20 flex items-center gap-4">
-            <div className="flex -space-x-3">
-              {[1, 2, 3, 4].map((i) => (
-                <span
-                  key={i}
-                  className="flex h-8 w-8 items-center justify-center rounded-full border-2 border-white bg-slate-400 text-[10px] font-semibold text-white"
-                >
-                  P{i}
-                </span>
+          <div className="mt-20 flex items-center gap-8">
+            <div className="flex -space-x-2">
+              {partnerImages.map((partner) => (
+                <Image
+                  key={partner.id}
+                  src={partner.src}
+                  alt={partner.alt}
+                  width={28}
+                  height={28}
+                  className="rounded-full border-2 border-white object-cover"
+                />
               ))}
+  
             </div>
+            <div>
             <p className="text-xs leading-snug text-white/80">
               Trusted by 1000+
               <br />
               patients
             </p>
+            </div>
           </div>
         </div>
 

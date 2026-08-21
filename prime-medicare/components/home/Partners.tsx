@@ -31,7 +31,7 @@ export default function Partners() {
       <div className="grid grid-cols-1 gap-12 md:grid-cols-2 md:items-center">
         {/* Left column: copy + photos */}
         <div>
-          <p className="text-sm font-semibold text-[#38bdf8]">Our Partners</p>
+          <p className="text-sm font-semibold text-[#00a6a6]">Our Partners</p>
           <h2 className="mt-2 text-3xl font-extrabold leading-tight text-[#1e293b] sm:text-4xl">
             Get Know Our Partners
           </h2>
@@ -67,7 +67,7 @@ export default function Partners() {
             <div
               key={partner.name}
               className={`flex items-center justify-between gap-4 rounded-2xl p-6 ${
-                partner.highlighted ? 'bg-[#38bdf8]' : 'bg-[#f8fafc]'
+                partner.highlighted ? 'bg-[#38BDF8]' : 'bg-[#f8fafc]'
               }`}
             >
               <div>

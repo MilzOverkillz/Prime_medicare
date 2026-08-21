@@ -12,19 +12,19 @@ const benefits = [
 
 export default function CorporateHelp() {
   return (
-    <section className="mx-auto max-w-5xl px-4 py-8 text-center md:py-12">
+    <section className="mx-auto max-w-10xl h-[600px] px-4 py-8 text-center md:py-30">
       <p className="mb-2 text-sm font-semibold text-[#00a6a6]">Help</p>
       <h1 className="mb-4 text-3xl font-extrabold leading-tight text-[#1e293b] sm:text-4xl">
         Help For Your Business
       </h1>
-      <p className="mx-auto mb-10 max-w-2xl text-sm leading-relaxed text-[#1e293b] sm:text-base">
+      <p className="mx-auto mb-10 max-w-3xl text-3xs font-semibold leading-relaxed text-[#1e293b] sm:text-base">
         Get the support, expertise, and solutions your business needs to
         overcome challenges, improve performance, and achieve sustainable
         growth.
       </p>
 
       {/* Three-card row */}
-      <div className="grid grid-cols-1 gap-4 text-left sm:grid-cols-3">
+      <div className="grid grid-cols-1 gap-6 text-left md-6 sm:grid-cols-3">
         {/* Left card — icon + description */}
         <div className="rounded-2xl bg-[#f8fafc] p-6">
           <div className="mb-4 flex h-9 w-9 items-center justify-center rounded-full bg-[#38bdf8]">

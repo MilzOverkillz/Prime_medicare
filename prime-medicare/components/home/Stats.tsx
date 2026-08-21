@@ -8,9 +8,9 @@ const stats = [
 
 const AboutUs: React.FC = () => {
   return (
-    <section className="mx-auto max-w-3xl px-6 py-20 text-center">
+    <section className="mx-auto max-w-5xl px-6 py-20 text-center">
       {/* Eyebrow */}
-      <p className="text-sm font-semibold uppercase tracking-wide text-[#38bdf8]">
+      <p className="text-sm font-semibold uppercase tracking-wide text-[#00a6a6]">
         About Us
       </p>
 
@@ -20,7 +20,7 @@ const AboutUs: React.FC = () => {
       </h2>
 
       {/* Paragraph */}
-      <p className="mx-auto mt-6 max-w-2xl text-base leading-relaxed text-[#475569]">
+      <p className=" mt-10 ml-0.1 mr-4 min-w-4xl text-xl text-[#475569]">
         Prime Medicare Colombo, a subsidiary of Prime Medicare UK, is a digitally
         enabled multi specialty healthcare provider offering OPD, emergency, dental,
         pharmacy, specialist consultations, telemedicine, and home visits. We combine
@@ -29,7 +29,7 @@ const AboutUs: React.FC = () => {
       </p>
 
       {/* Stats */}
-      <div className="mt-14 flex flex-col gap-10 sm:flex-row sm:justify-between sm:gap-6">
+      <div className="mt-14 ml-10 flex flex-col gap-10 sm:flex-row sm:justify-between sm:gap-2">
         {stats.map((stat) => (
           <div key={stat.label} className="flex flex-col items-center sm:items-start">
             <span className="text-5xl font-extrabold leading-tight text-[#38bdf8] sm:text-[56px]">

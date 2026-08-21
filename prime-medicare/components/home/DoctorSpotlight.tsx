@@ -17,7 +17,7 @@ export default function DoctorSpotlight() {
   return (
     <section className="mx-auto max-w-4xl px-4 py-16 text-center md:px-8">
       {/* Header */}
-      <p className="mb-2 text-sm font-semibold text-[#38bdf8]">Our Specialists</p>
+      <p className="mb-2 text-sm font-semibold text-[#00a6a6]">Our Specialists</p>
       <h2 className="mb-4 text-3xl font-extrabold leading-tight text-[#1e293b] sm:text-4xl">
         Meet Some of Our Doctors
       </h2>
