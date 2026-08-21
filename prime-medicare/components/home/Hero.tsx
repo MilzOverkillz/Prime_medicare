@@ -1,111 +1,165 @@
-// Hero.tsx
-import React from 'react';
-import { Heart, ShieldCheck, Stethoscope, Plus } from 'lucide-react';
-import Navbar from './Navbar';
-
-const badgeIcons = [Heart, ShieldCheck, Stethoscope, Plus];
-
-const calloutLabels = [
-  { text: 'Trusted by\n1000+ patients', className: 'right-[6%] top-[30%] text-left' },
-  { text: 'Expert\nDoctors', className: 'left-[2%] top-[44%] text-right' },
-  { text: 'Patient\nFirst\nApproach', className: 'right-[4%] top-[44%] text-left' },
-  { text: 'Advanced\nMedical\nCare', className: 'right-[100%] top-[76%] text-right' },
+import Image from "next/image";
+import { cn } from "@/lib/utils";
+const SERVICE_ICONS = [
+  "/images/home/Vector.svg",
+  "/images/home/Vector-1.svg",
+  "/images/home/Vector-2.svg",
+  "/images/home/Vector-3.svg",
 ];
 
-export default function Hero() {
+const TRUST_AVATARS = [
+  "/images/home/person1.jpg",
+  "/images/home/person2.jpg",
+  "/images/home/person3.jpg",
+  "/images/home/person4.jpg",
+  "/images/home/person5.jpg",
+];
+
+function Callout({
+  className,
+  flip,
+  children,
+}: {
+  className: string;
+  flip?: boolean;
+  children: React.ReactNode;
+}) {
   return (
-    <section className="relative w-full h-[1018px] overflow-hidden bg-slate-900">
-      <div
-        className="absolute inset-0 bg-cover bg-center opacity-60%"
-        style={{ backgroundImage: "url('/images/home-bg.png')" }}
+    <div className={cn("absolute z-20 hidden lg:block", className)}>
+      <Image
+        src="/images/home/designer-line.svg"
+        alt=""
+        width={96}
+        height={35}
+        className={cn(
+          "absolute top-0 h-[35px] w-[96px] max-w-none",
+          flip ? "-left-[96px] -scale-x-100" : "-right-[96px]",
+        )}
       />
-      <div className="absolute inset-0 bg-gradient-to-r from-slate-900/55 via-slate-900/30 to-transparent" />
+      <p className="font-heading text-lg leading-7 font-medium text-white/90">
+        {children}
+      </p>
+    </div>
+  );
+}
 
-      {/* Doctor image: fills section height, capped at 780px */}
-      <img
-        src="/images/home-doctor.png"
-        alt="Doctor"
-        className="absolute bottom-0 right-40 z-[5] hidden h-[780px] w-auto object-contain md:block"
-      />
+export default function HomePage() {
+  return (
+    <>
+      <section className="relative flex min-h-screen items-end overflow-hidden bg-brand-900 lg:h-[1020px] lg:min-h-0">
+        <Image
+          src="/images/home/bg-home-hero.png"
+          alt=""
+          fill
+          priority
+          className="object-cover"
+        />
+        <div className="absolute inset-0 bg-[#0000004D]" />
 
-      <Navbar />
+        <div className="absolute top-0 right-0 bottom-0 z-10 hidden w-[42%] md:block lg:top-[198px] lg:right-auto lg:bottom-auto lg:left-[547px] lg:h-[821px] lg:w-[793px]">
+          <Image
+            src="/images/home/doctor.png"
+            alt="Doctor at Prime Medicare"
+            fill
+            priority
+            className="object-contain object-bottom"
+          />
+        </div>
 
-      {/* 2-column grid, not 3 — this is what keeps callouts aligned over the doctor */}
-      <div className="relative z-10 mx-auto grid h-full max-w-7xl grid-cols-1 items-center gap-8 px-6 md:grid-cols-2 md:px-10">
-        {/* Left column — copy */}
-        <div className="flex flex-col">
-          <p className="mb-2 text-sm font-medium text-white/80">
-            Reliable Care, Anywhere Anytime
-          </p>
+        <Callout
+          className="lg:top-[198px] lg:left-[1153px] lg:h-[56px] lg:w-[132px]"
+          flip
+        >
+          Trusted by
+          <br />
+          1000+ patients
+        </Callout>
+        <Callout className="lg:top-[498px] lg:left-[715px] lg:h-[56px] lg:w-[71px]">
+          Expert
+          <br />
+          Doctors
+        </Callout>
+        <Callout
+          className="lg:top-[494px] lg:left-[1254px] lg:h-[84px] lg:w-[86px]"
+          flip
+        >
+          Patient First
+          <br />
+          Approach
+        </Callout>
+        <Callout className="lg:top-[811px] lg:left-[547px] lg:h-[84px] lg:w-[88px]">
+          Advanced Medical
+          <br />
+          Care
+        </Callout>
 
-          <h1 className="max-w-md text-4xl font-extrabold leading-[1.1] text-white sm:text-5xl">
-            <span className="block">Compassionate</span>
-            <span className="block">Care. Trusted</span>
-            <span className="block">Doctors.</span>
-          </h1>
-
-          {/* Badges sit tight under the headline */}
-          <div className="mt-3 flex gap-2">
-            {badgeIcons.map((Icon, i) => (
-              <span
-                key={i}
-                className="flex h-8 w-8 items-center justify-center rounded-full border border-white/40 bg-white/10 text-white backdrop-blur-sm"
-              >
-                <Icon size={14} strokeWidth={1.75} />
-              </span>
-            ))}
-          </div>
-
-          <p className="mt-4 max-w-sm text-sm leading-relaxed text-white/80">
-            Advanced healthcare with experienced Expert doctors who put your health first.
-          </p>
-
-          <form className="mt-6 flex w-full max-w-md overflow-hidden rounded-full bg-white p-1 shadow-lg">
-            <input
-              type="email"
-              placeholder="Enter Your Email"
-              className="flex-1 bg-transparent px-5 text-sm text-slate-700 outline-none placeholder:text-slate-400"
-            />
-            <button
-              type="submit"
-              className="rounded-full bg-blue-600 px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-blue-700"
-            >
-              Get Started
-            </button>
-          </form>
-
-          <div className="mt-20 flex items-center gap-4">
-            <div className="flex -space-x-3">
-              {[1, 2, 3, 4].map((i) => (
-                <span
-                  key={i}
-                  className="flex h-8 w-8 items-center justify-center rounded-full border-2 border-white bg-slate-400 text-[10px] font-semibold text-white"
-                >
-                  P{i}
-                </span>
-              ))}
-            </div>
-            <p className="text-xs leading-snug text-white/80">
-              Trusted by 1000+
-              <br />
-              patients
+        <div className="relative z-10 mx-auto w-full max-w-7xl px-6 pt-32 pb-16 md:pt-40 md:px-10 lg:absolute lg:top-[191px] lg:left-[99px] lg:mx-0 lg:w-[541px] lg:max-w-none lg:px-0 lg:py-0">
+          <div className="max-w-xl lg:max-w-none">
+            <p className="font-heading text-lg font-medium text-white lg:text-[22px] lg:leading-8">
+              Reliable Care, Anywhere Anytime
             </p>
+
+            <h1 className="mt-4 font-heading text-4xl leading-[1.05] font-extrabold text-white sm:text-5xl md:text-6xl lg:mt-2 lg:text-[72px] lg:leading-[104px] lg:tracking-[-1.44px]">
+              <span className="block">Compassionate</span>
+              <span className="block">Care. Trusted</span>
+              <span className="flex flex-wrap items-center gap-4">
+                Doctors.
+                <span className="flex items-center gap-3 rounded-full border-0 bg-white/10 px-4 py-2.5 backdrop-blur-md">
+                  {SERVICE_ICONS.map((icon) => (
+                    <span
+                      key={icon}
+                      className="flex h-9 w-9 items-center justify-center rounded-full border border-[#F8FAFC] bg-white/10 backdrop-blur-md"
+                    >
+                      <Image src={icon} alt="" width={18} height={18} />
+                    </span>
+                  ))}
+                </span>
+              </span>
+            </h1>
+
+            <p className="mt-6 max-w-md text-white/80 lg:mt-4 lg:max-w-none lg:text-lg lg:leading-[16px] lg:tracking-normal">
+              Advanced healthcare with experienced Expert doctors who put your
+              health first.
+            </p>
+
+            <form className="mt-8 flex max-w-lg rounded-full bg-white p-1.5 pl-6 lg:mt-[71px] lg:h-[60px] lg:w-[535px] lg:max-w-none">
+              <input
+                type="email"
+                placeholder="Enter Your Email"
+                className="flex-1 bg-transparent text-brand-900 outline-none placeholder:text-brand-900/50"
+              />
+              <button
+                type="submit"
+                className="flex items-center justify-center rounded-full bg-brand-600 px-6 py-3 font-semibold text-white transition-colors hover:bg-brand-700 lg:h-[48px] lg:w-[192px] lg:px-0 lg:py-0"
+              >
+                Get Started
+              </button>
+            </form>
+
+            <div className="mt-8 flex flex-col items-start gap-3 lg:mt-[104px]">
+              <div className="flex -space-x-3">
+                {TRUST_AVATARS.map((avatar) => (
+                  <span
+                    key={avatar}
+                    className="h-9 w-9 overflow-hidden rounded-full lg:h-[35px] lg:w-[35px]"
+                  >
+                    <Image
+                      src={avatar}
+                      alt=""
+                      width={35}
+                      height={35}
+                      className="h-full w-full object-cover"
+                    />
+                  </span>
+                ))}
+              </div>
+              <p className="font-heading text-sm font-medium text-white/90 lg:text-base">
+                Trusted by 1000+ patients
+              </p>
+            </div>
           </div>
         </div>
-
-        {/* Right column — callout labels, now correctly spanning the doctor's half */}
-        <div className="relative hidden h-full md:block">
-          {calloutLabels.map((label) => (
-            <div key={label.text} className={`absolute flex items-center gap-2 ${label.className}`}>
-              {label.className.includes('text-right') && <span className="h-px w-6 bg-white/60" />}
-              <p className="whitespace-pre text-xs font-medium leading-snug text-white/90">
-                {label.text}
-              </p>
-              {label.className.includes('text-left') && <span className="h-px w-6 bg-white/60" />}
-            </div>
-          ))}
-        </div>
-      </div>
-    </section>
+      </section>
+    </>
   );
 }
