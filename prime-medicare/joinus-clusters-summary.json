@@ -1,0 +1,256 @@
+[
+  {
+    "id": "cluster-1",
+    "yRange": [
+      140,
+      188
+    ],
+    "memberNames": [
+      "Frame 384"
+    ],
+    "memberIds": [
+      "679:595"
+    ],
+    "combinedTexts": [
+      "CONTACT US",
+      "ABOUT US",
+      "CORPORATE",
+      "SERVICES"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-2",
+    "yRange": [
+      291,
+      1004
+    ],
+    "memberNames": [
+      "Rectangle 999",
+      "Rectangle 894",
+      "Together We Deliver Exceptional Care Every Single Day",
+      "Join a dedicated team committed to delivering exceptional healthcare while growing your career in an environment that values innovation, compassion, and professional excellence.",
+      "Frame 86"
+    ],
+    "memberIds": [
+      "679:638",
+      "679:610",
+      "679:587",
+      "679:588",
+      "679:589"
+    ],
+    "combinedTexts": [
+      "Together We Deliver Exceptional Care \nEvery Single Day",
+      "Join a dedicated team committed to delivering exceptional healthcare while growi",
+      "Contact Us"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-3",
+    "yRange": [
+      1154,
+      1254
+    ],
+    "memberNames": [
+      "Why Work With Us",
+      "Why Join Prime Medicare?"
+    ],
+    "memberIds": [
+      "679:544",
+      "679:542"
+    ],
+    "combinedTexts": [
+      "Why Work With Us",
+      "Why Join Prime Medicare?"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-4",
+    "yRange": [
+      1297,
+      1411
+    ],
+    "memberNames": [
+      "We believe great healthcare starts with empowered people. From continuous learning to a collaborative culture, we help every team member grow while making a meaningful impact."
+    ],
+    "memberIds": [
+      "679:543"
+    ],
+    "combinedTexts": [
+      "We believe great healthcare starts with empowered people. From continuous learni"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-5",
+    "yRange": [
+      1471,
+      2280
+    ],
+    "memberNames": [
+      "Rectangle 892",
+      "Rectangle 851",
+      "Rectangle 853",
+      "Rectangle 852",
+      "Flexible Work Environment",
+      "Career Development",
+      "Rectangle 862",
+      "Enjoy a workplace that supports work-life balance while encouraging productivity, wellbeing, and professional growth.",
+      "Grow your skills through continuous learning, mentorship, and opportunities for long-term professional advancement.",
+      "Rectangle 854",
+      "Rectangle 855",
+      "Meaningful Patient Impact",
+      "Collaborative Culture",
+      "Rectangle 856",
+      "Work alongside passionate professionals in a supportive environment built on teamwork, respect, and shared success.",
+      "Rectangle 863",
+      "Make a positive difference every day by helping deliver compassionate, high-quality healthcare to our communities",
+      "Rectangle 857",
+      "Competitive Benefits",
+      "Rectangle 864",
+      "Modern Healthcare Technology",
+      "Receive rewarding benefits designed to recognize your contributions and support your personal and professional wellbeing.",
+      "Deliver exceptional care using advanced healthcare technologies and innovative digital solutions."
+    ],
+    "memberIds": [
+      "679:611",
+      "679:548",
+      "679:551",
+      "679:553",
+      "679:567",
+      "679:555",
+      "679:564",
+      "679:568",
+      "679:556",
+      "679:549",
+      "679:550",
+      "679:561",
+      "679:557",
+      "679:554",
+      "679:558",
+      "679:565",
+      "679:569",
+      "679:552",
+      "679:559",
+      "679:566",
+      "679:562",
+      "679:560",
+      "679:563"
+    ],
+    "combinedTexts": [
+      "Flexible Work Environment",
+      "Career Development",
+      "Enjoy a workplace that supports work-life balance while encouraging productivity",
+      "Grow your skills through continuous learning, mentorship, and opportunities for ",
+      "Meaningful Patient Impact",
+      "Collaborative Culture",
+      "Work alongside passionate professionals in a supportive environment built on tea",
+      "Make a positive difference every day by helping deliver compassionate, high-qual"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-6",
+    "yRange": [
+      2421,
+      3106
+    ],
+    "memberNames": [
+      "Vacancies",
+      "Rectangle 865",
+      "Rectangle 866",
+      "Frame 330",
+      "Frame 331",
+      "Frame 332",
+      "Frame 333",
+      "Explore Current Opportunities",
+      "Rectangle 895",
+      "Registered Nurse",
+      "Deliver compassionate patient care, assist medical professionals, and ensure high standards of clinical excellence across healthcare services.",
+      "Rectangle 892",
+      "Find a role that matches your skills and passion. Join a team committed to delivering exceptional healthcare experiences.",
+      "General Practitioner (GP)",
+      "Frame 334",
+      "Provide comprehensive primary healthcare, diagnose medical conditions, and deliver patient-centered treatment in a collaborative clinical environment.",
+      "We're always looking for talented individuals. Upload your CV, and our HR team will contact you when a suitable opportunity becomes available",
+      "Frame 87",
+      "Group 454",
+      "Group 455",
+      "Frame 335"
+    ],
+    "memberIds": [
+      "679:547",
+      "679:570",
+      "679:575",
+      "679:571",
+      "679:573",
+      "679:576",
+      "679:578",
+      "679:545",
+      "679:621",
+      "679:630",
+      "679:631",
+      "679:620",
+      "679:546",
+      "679:622",
+      "679:632",
+      "679:623",
+      "679:580",
+      "679:624",
+      "679:612",
+      "679:616",
+      "679:581"
+    ],
+    "combinedTexts": [
+      "Vacancies",
+      "Full-Time",
+      "Onsite",
+      "Full-Time",
+      "Onsite",
+      "Explore Current Opportunities",
+      "Registered Nurse",
+      "Deliver compassionate patient care, assist medical professionals, and ensure hig"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-7",
+    "yRange": [
+      3351,
+      3594
+    ],
+    "memberNames": [
+      "Group 690"
+    ],
+    "memberIds": [
+      "679:639"
+    ],
+    "combinedTexts": [
+      "Have Questions?\n We're Here to Help",
+      "Book an Appointment"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-8",
+    "yRange": [
+      3732,
+      4433
+    ],
+    "memberNames": [
+      "Group 652"
+    ],
+    "memberIds": [
+      "679:649"
+    ],
+    "combinedTexts": [
+      "Prime Medicare Colombo19, St Albans Place, Colombo",
+      "011 424 2030",
+      "support@primemedicareltd.com",
+      "Quick  Links"
+    ],
+    "hasComponentInstance": false
+  }
+]

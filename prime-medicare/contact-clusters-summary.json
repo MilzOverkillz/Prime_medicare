@@ -1,0 +1,225 @@
+[
+  {
+    "id": "cluster-1",
+    "yRange": [
+      140,
+      188
+    ],
+    "memberNames": [
+      "Frame 384"
+    ],
+    "memberIds": [
+      "796:170"
+    ],
+    "combinedTexts": [
+      "CONTACT US",
+      "ABOUT US",
+      "CORPORATE",
+      "SERVICES"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-2",
+    "yRange": [
+      257,
+      1160
+    ],
+    "memberNames": [
+      "Rectangle 981",
+      "Rectangle 984",
+      "Get In Touch",
+      "Let’s Connect You to Better Care.",
+      "Whether you need to schedule an appointment, consult a specialist, or have a general medical inquiry, our premium support team is ready to assist you instantly.",
+      "Rectangle 983",
+      "Rectangle 892",
+      "Group 657",
+      "Group 659",
+      "Group 658",
+      "Frame 63"
+    ],
+    "memberIds": [
+      "796:189",
+      "796:191",
+      "796:185",
+      "796:187",
+      "796:188",
+      "796:190",
+      "796:192",
+      "796:207",
+      "796:199",
+      "796:215",
+      "796:193"
+    ],
+    "combinedTexts": [
+      "Get In Touch",
+      "Let’s Connect You to Better Care.",
+      "Whether you need to schedule an appointment, consult a specialist, or have a gen",
+      "Mail Us",
+      "support@primemedicareltd.com",
+      "Call Us",
+      "011 424 2030",
+      "Visit Us"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-3",
+    "yRange": [
+      1328,
+      1918
+    ],
+    "memberNames": [
+      "We’re Here to Help",
+      "Rectangle 985",
+      "How Can We Help?",
+      "Full Name",
+      "Phone Number",
+      "Rectangle 986",
+      "Rectangle 987",
+      "Our dedicated patient experience team ensures your inquiries are handled with priority and precision.",
+      "Email Address",
+      "Rectangle 988",
+      "Group 662",
+      "Group 660",
+      "Message",
+      "Rectangle 989",
+      "Group 663",
+      "Group 661",
+      "Frame 336"
+    ],
+    "memberIds": [
+      "796:186",
+      "796:243",
+      "796:223",
+      "796:244",
+      "796:245",
+      "796:248",
+      "796:251",
+      "796:224",
+      "796:246",
+      "796:249",
+      "796:237",
+      "796:227",
+      "796:247",
+      "796:250",
+      "796:240",
+      "796:231",
+      "796:252"
+    ],
+    "combinedTexts": [
+      "We’re Here to Help",
+      "How Can We Help?",
+      "Full Name",
+      "Phone Number",
+      "Our dedicated patient experience team ensures your inquiries are handled with pr",
+      "Email Address",
+      "Appointment Assistence",
+      "Need to reschedule or find a specific specialist? We provide fast-track booking "
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-4",
+    "yRange": [
+      2024,
+      2156
+    ],
+    "memberNames": [
+      "Prime Medicare",
+      "Locate Prime Medicare and get clear directions to connect with our healthcare team."
+    ],
+    "memberIds": [
+      "796:225",
+      "796:226"
+    ],
+    "combinedTexts": [
+      "Prime Medicare",
+      "Locate Prime Medicare and get clear directions to connect with our healthcare te"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-5",
+    "yRange": [
+      2212,
+      2777
+    ],
+    "memberNames": [
+      "Rectangle 991",
+      "Rectangle 992",
+      "Prime Medicare Main Center",
+      "1200 Healthcare Blvd, Suite 400Metropolis, NY 10001",
+      "Opening Hours",
+      "Frame 386",
+      "Rectangle 993",
+      "Mon-Sat (09:00 AM - 09:00 PM) Sun (09:00 AM - 05:00 PM) Public Holiday (09:00 AM - 05:00 PM)",
+      "Group 666"
+    ],
+    "memberIds": [
+      "796:258",
+      "796:259",
+      "796:260",
+      "796:261",
+      "796:262",
+      "796:263",
+      "796:267",
+      "796:268",
+      "796:269"
+    ],
+    "combinedTexts": [
+      "Prime Medicare Main Center",
+      "1200 Healthcare Blvd, Suite 400Metropolis, NY 10001",
+      "Opening Hours",
+      "Open Now",
+      "Mon-Sat (09:00 AM - 09:00 PM)\nSun (09:00 AM - 05:00 PM)\nPublic Holiday (09:00 AM",
+      "Get Directions"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-6",
+    "yRange": [
+      2973,
+      3440
+    ],
+    "memberNames": [
+      "Rectangle 998",
+      "Your Care Starts With a Conversation",
+      "Connect with Prime Medicare for trusted guidance, personalized healthcare support, and convenient access to the services you need—because better care begins with the right conversation and meaningful connection.",
+      "Frame 62"
+    ],
+    "memberIds": [
+      "796:319",
+      "796:320",
+      "796:327",
+      "796:321"
+    ],
+    "combinedTexts": [
+      "Your Care Starts With a Conversation",
+      "Connect with Prime Medicare for trusted guidance, personalized healthcare suppor",
+      "Book an Appointment"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-7",
+    "yRange": [
+      3541,
+      4242
+    ],
+    "memberNames": [
+      "Group 652"
+    ],
+    "memberIds": [
+      "796:276"
+    ],
+    "combinedTexts": [
+      "Prime Medicare Colombo19, St Albans Place, Colombo",
+      "011 424 2030",
+      "support@primemedicareltd.com",
+      "Quick  Links"
+    ],
+    "hasComponentInstance": false
+  }
+]

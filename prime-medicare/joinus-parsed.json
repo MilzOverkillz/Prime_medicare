@@ -1,0 +1,3756 @@
+{
+  "id": "679:541",
+  "name": "Join Us",
+  "type": "FRAME",
+  "layout": {
+    "mode": "NONE",
+    "padding": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "gap": 0,
+    "x": 6373,
+    "y": 92,
+    "width": 1440,
+    "height": 4341
+  },
+  "style": {
+    "bgColor": "#ffffff",
+    "textColor": null
+  },
+  "children": [
+    {
+      "id": "679:542",
+      "name": "Why Join Prime Medicare?",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6743,
+        "y": 1186,
+        "width": 700,
+        "height": 68
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Plus Jakarta Sans",
+        "fontWeight": 800,
+        "fontSize": 56,
+        "letterSpacing": -0.84,
+        "lineHeight": 68
+      },
+      "text": "Why Join Prime Medicare?"
+    },
+    {
+      "id": "679:543",
+      "name": "We believe great healthcare starts with empowered people. From continuous learning to a collaborative culture, we help every team member grow while making a meaningful impact.",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6546,
+        "y": 1297,
+        "width": 1093,
+        "height": 114
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Plus Jakarta Sans",
+        "fontWeight": 600,
+        "fontSize": 28,
+        "letterSpacing": 0,
+        "lineHeight": 38
+      },
+      "text": "We believe great healthcare starts with empowered people. From continuous learning to a collaborative culture, we help every team member grow while making a meaningful impact."
+    },
+    {
+      "id": "679:544",
+      "name": "Why Work With Us",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6998,
+        "y": 1154,
+        "width": 189,
+        "height": 32
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#00a6a6",
+        "fontFamily": "Plus Jakarta Sans",
+        "fontWeight": 500,
+        "fontSize": 22,
+        "letterSpacing": 0,
+        "lineHeight": 32
+      },
+      "text": "Why Work With Us"
+    },
+    {
+      "id": "679:545",
+      "name": "Explore Current Opportunities",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6478,
+        "y": 2490,
+        "width": 430,
+        "height": 136
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Plus Jakarta Sans",
+        "fontWeight": 800,
+        "fontSize": 56,
+        "letterSpacing": -0.84,
+        "lineHeight": 68
+      },
+      "text": "Explore Current Opportunities"
+    },
+    {
+      "id": "679:546",
+      "name": "Find a role that matches your skills and passion. Join a team committed to delivering exceptional healthcare experiences.",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6478,
+        "y": 2764,
+        "width": 504,
+        "height": 152
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Plus Jakarta Sans",
+        "fontWeight": 600,
+        "fontSize": 28,
+        "letterSpacing": 0,
+        "lineHeight": 38
+      },
+      "text": "Find a role that matches your skills and passion. Join a team committed to delivering exceptional healthcare experiences."
+    },
+    {
+      "id": "679:547",
+      "name": "Vacancies",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6478,
+        "y": 2421,
+        "width": 109,
+        "height": 32
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#00a6a6",
+        "fontFamily": "Plus Jakarta Sans",
+        "fontWeight": 500,
+        "fontSize": 22,
+        "letterSpacing": 0,
+        "lineHeight": 32
+      },
+      "text": "Vacancies"
+    },
+    {
+      "id": "679:548",
+      "name": "Rectangle 851",
+      "type": "RECTANGLE",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6473,
+        "y": 1526,
+        "width": 347,
+        "height": 218,
+        "cornerRadius": 30
+      },
+      "style": {
+        "bgColor": "#38bdf8",
+        "textColor": null
+      }
+    },
+    {
+      "id": "679:549",
+      "name": "Rectangle 854",
+      "type": "RECTANGLE",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7257,
+        "y": 1720,
+        "width": 261,
+        "height": 268,
+        "cornerRadius": 30
+      },
+      "style": {
+        "bgColor": "#f8fafc",
+        "textColor": null
+      }
+    },
+    {
+      "id": "679:550",
+      "name": "Rectangle 855",
+      "type": "RECTANGLE",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7563,
+        "y": 1720,
+        "width": 151,
+        "height": 527,
+        "cornerRadius": 30
+      },
+      "isImage": true
+    },
+    {
+      "id": "679:551",
+      "name": "Rectangle 853",
+      "type": "RECTANGLE",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7257,
+        "y": 1526,
+        "width": 457,
+        "height": 151,
+        "cornerRadius": 30
+      },
+      "style": {
+        "bgColor": "#00a6a6",
+        "textColor": null
+      }
+    },
+    {
+      "id": "679:552",
+      "name": "Rectangle 857",
+      "type": "RECTANGLE",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6865,
+        "y": 2037,
+        "width": 653,
+        "height": 210,
+        "cornerRadius": 30
+      },
+      "style": {
+        "bgColor": "#38bdf8",
+        "textColor": null
+      }
+    },
+    {
+      "id": "679:553",
+      "name": "Rectangle 852",
+      "type": "RECTANGLE",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6865,
+        "y": 1526,
+        "width": 347,
+        "height": 462,
+        "cornerRadius": 30
+      },
+      "style": {
+        "bgColor": "#1565c0",
+        "textColor": null
+      }
+    },
+    {
+      "id": "679:554",
+      "name": "Rectangle 856",
+      "type": "RECTANGLE",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6473,
+        "y": 1787,
+        "width": 347,
+        "height": 460,
+        "cornerRadius": 30
+      },
+      "style": {
+        "bgColor": "#38bdf8",
+        "textColor": null
+      }
+    },
+    {
+      "id": "679:555",
+      "name": "Career Development",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6505,
+        "y": 1558,
+        "width": 220,
+        "height": 32
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Plus Jakarta Sans",
+        "fontWeight": 500,
+        "fontSize": 22,
+        "letterSpacing": 0,
+        "lineHeight": 32
+      },
+      "text": "Career Development"
+    },
+    {
+      "id": "679:556",
+      "name": "Grow your skills through continuous learning, mentorship, and opportunities for long-term professional advancement.",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6505,
+        "y": 1602,
+        "width": 288,
+        "height": 96
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "letterSpacing": 0,
+        "lineHeight": 24
+      },
+      "text": "Grow your skills through continuous learning, mentorship, and opportunities for long-term professional advancement."
+    },
+    {
+      "id": "679:557",
+      "name": "Collaborative Culture",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6901,
+        "y": 1776,
+        "width": 225,
+        "height": 32
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Plus Jakarta Sans",
+        "fontWeight": 500,
+        "fontSize": 22,
+        "letterSpacing": 0,
+        "lineHeight": 32
+      },
+      "text": "Collaborative Culture"
+    },
+    {
+      "id": "679:558",
+      "name": "Work alongside passionate professionals in a supportive environment built on teamwork, respect, and shared success.",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6903,
+        "y": 1820,
+        "width": 288,
+        "height": 96
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "letterSpacing": 0,
+        "lineHeight": 24
+      },
+      "text": "Work alongside passionate professionals in a supportive environment built on teamwork, respect, and shared success."
+    },
+    {
+      "id": "679:559",
+      "name": "Competitive Benefits",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6510,
+        "y": 2037,
+        "width": 225,
+        "height": 32
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Plus Jakarta Sans",
+        "fontWeight": 500,
+        "fontSize": 22,
+        "letterSpacing": 0,
+        "lineHeight": 32
+      },
+      "text": "Competitive Benefits"
+    },
+    {
+      "id": "679:560",
+      "name": "Receive rewarding benefits designed to recognize your contributions and support your personal and professional wellbeing.",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6512,
+        "y": 2081,
+        "width": 288,
+        "height": 96
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "letterSpacing": 0,
+        "lineHeight": 24
+      },
+      "text": "Receive rewarding benefits designed to recognize your contributions and support your personal and professional wellbeing."
+    },
+    {
+      "id": "679:561",
+      "name": "Meaningful Patient Impact",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7282,
+        "y": 1744,
+        "width": 197,
+        "height": 64
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Plus Jakarta Sans",
+        "fontWeight": 500,
+        "fontSize": 22,
+        "letterSpacing": 0,
+        "lineHeight": 32
+      },
+      "text": "Meaningful Patient Impact"
+    },
+    {
+      "id": "679:562",
+      "name": "Modern Healthcare Technology",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7152,
+        "y": 2076,
+        "width": 329,
+        "height": 32
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Plus Jakarta Sans",
+        "fontWeight": 500,
+        "fontSize": 22,
+        "letterSpacing": 0,
+        "lineHeight": 32
+      },
+      "text": "Modern Healthcare Technology"
+    },
+    {
+      "id": "679:563",
+      "name": "Deliver exceptional care using advanced healthcare technologies and innovative digital solutions.",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7152,
+        "y": 2123,
+        "width": 333,
+        "height": 72
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "letterSpacing": 0,
+        "lineHeight": 24
+      },
+      "text": "Deliver exceptional care using advanced healthcare technologies and innovative digital solutions."
+    },
+    {
+      "id": "679:564",
+      "name": "Rectangle 862",
+      "type": "RECTANGLE",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6903,
+        "y": 1569,
+        "width": 272,
+        "height": 175,
+        "cornerRadius": 10
+      },
+      "isImage": true
+    },
+    {
+      "id": "679:565",
+      "name": "Rectangle 863",
+      "type": "RECTANGLE",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6510,
+        "y": 1820,
+        "width": 272,
+        "height": 175,
+        "cornerRadius": 10
+      },
+      "isImage": true
+    },
+    {
+      "id": "679:566",
+      "name": "Rectangle 864",
+      "type": "RECTANGLE",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6901,
+        "y": 2068,
+        "width": 223,
+        "height": 148,
+        "cornerRadius": 10
+      },
+      "isImage": true
+    },
+    {
+      "id": "679:567",
+      "name": "Flexible Work Environment",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7291,
+        "y": 1541,
+        "width": 227,
+        "height": 28
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Plus Jakarta Sans",
+        "fontWeight": 500,
+        "fontSize": 18,
+        "letterSpacing": 0,
+        "lineHeight": 28
+      },
+      "text": "Flexible Work Environment"
+    },
+    {
+      "id": "679:568",
+      "name": "Enjoy a workplace that supports work-life balance while encouraging productivity, wellbeing, and professional growth.",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7291,
+        "y": 1574,
+        "width": 398,
+        "height": 72
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "letterSpacing": 0,
+        "lineHeight": 24
+      },
+      "text": "Enjoy a workplace that supports work-life balance while encouraging productivity, wellbeing, and professional growth."
+    },
+    {
+      "id": "679:569",
+      "name": "Make a positive difference every day by helping deliver compassionate, high-quality healthcare to our communities",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7282,
+        "y": 1820,
+        "width": 218,
+        "height": 120
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#000000",
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "letterSpacing": 0,
+        "lineHeight": 24
+      },
+      "text": "Make a positive difference every day by helping deliver compassionate, high-quality healthcare to our communities"
+    },
+    {
+      "id": "679:570",
+      "name": "Rectangle 865",
+      "type": "RECTANGLE",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7007,
+        "y": 2421,
+        "width": 371,
+        "height": 685,
+        "cornerRadius": 30
+      },
+      "isImage": true
+    },
+    {
+      "id": "679:571",
+      "name": "Frame 330",
+      "type": "FRAME",
+      "layout": {
+        "mode": "HORIZONTAL",
+        "padding": [
+          5,
+          10,
+          5,
+          10
+        ],
+        "gap": 10,
+        "x": 7032,
+        "y": 2452,
+        "width": 81,
+        "height": 32,
+        "cornerRadius": 100
+      },
+      "style": {
+        "bgColor": "#f8fafc",
+        "textColor": null
+      },
+      "children": [
+        {
+          "id": "679:572",
+          "name": "Full-Time",
+          "type": "TEXT",
+          "layout": {
+            "mode": "NONE",
+            "padding": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "gap": 0,
+            "x": 7042,
+            "y": 2457,
+            "width": 61,
+            "height": 22
+          },
+          "style": {
+            "bgColor": null,
+            "textColor": "#000000",
+            "fontFamily": "Inter",
+            "fontWeight": 400,
+            "fontSize": 14,
+            "letterSpacing": 0.028000000417232516,
+            "lineHeight": 22
+          },
+          "text": "Full-Time"
+        }
+      ]
+    },
+    {
+      "id": "679:573",
+      "name": "Frame 331",
+      "type": "FRAME",
+      "layout": {
+        "mode": "HORIZONTAL",
+        "padding": [
+          5,
+          10,
+          5,
+          10
+        ],
+        "gap": 10,
+        "x": 7274,
+        "y": 2452,
+        "width": 63,
+        "height": 32,
+        "cornerRadius": 100
+      },
+      "style": {
+        "bgColor": "#f8fafc",
+        "textColor": null
+      },
+      "children": [
+        {
+          "id": "679:574",
+          "name": "Onsite",
+          "type": "TEXT",
+          "layout": {
+            "mode": "NONE",
+            "padding": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "gap": 0,
+            "x": 7284,
+            "y": 2457,
+            "width": 43,
+            "height": 22
+          },
+          "style": {
+            "bgColor": null,
+            "textColor": "#000000",
+            "fontFamily": "Inter",
+            "fontWeight": 400,
+            "fontSize": 14,
+            "letterSpacing": 0.028000000417232516,
+            "lineHeight": 22
+          },
+          "text": "Onsite"
+        }
+      ]
+    },
+    {
+      "id": "679:575",
+      "name": "Rectangle 866",
+      "type": "RECTANGLE",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7393,
+        "y": 2421,
+        "width": 321,
+        "height": 510,
+        "cornerRadius": 30
+      },
+      "isImage": true
+    },
+    {
+      "id": "679:576",
+      "name": "Frame 332",
+      "type": "FRAME",
+      "layout": {
+        "mode": "HORIZONTAL",
+        "padding": [
+          5,
+          10,
+          5,
+          10
+        ],
+        "gap": 10,
+        "x": 7416,
+        "y": 2452,
+        "width": 81,
+        "height": 32,
+        "cornerRadius": 100
+      },
+      "style": {
+        "bgColor": "#f8fafc",
+        "textColor": null
+      },
+      "children": [
+        {
+          "id": "679:577",
+          "name": "Full-Time",
+          "type": "TEXT",
+          "layout": {
+            "mode": "NONE",
+            "padding": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "gap": 0,
+            "x": 7426,
+            "y": 2457,
+            "width": 61,
+            "height": 22
+          },
+          "style": {
+            "bgColor": null,
+            "textColor": "#000000",
+            "fontFamily": "Inter",
+            "fontWeight": 400,
+            "fontSize": 14,
+            "letterSpacing": 0.028000000417232516,
+            "lineHeight": 22
+          },
+          "text": "Full-Time"
+        }
+      ]
+    },
+    {
+      "id": "679:578",
+      "name": "Frame 333",
+      "type": "FRAME",
+      "layout": {
+        "mode": "HORIZONTAL",
+        "padding": [
+          5,
+          10,
+          5,
+          10
+        ],
+        "gap": 10,
+        "x": 7624,
+        "y": 2452,
+        "width": 63,
+        "height": 32,
+        "cornerRadius": 100
+      },
+      "style": {
+        "bgColor": "#f8fafc",
+        "textColor": null
+      },
+      "children": [
+        {
+          "id": "679:579",
+          "name": "Onsite",
+          "type": "TEXT",
+          "layout": {
+            "mode": "NONE",
+            "padding": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "gap": 0,
+            "x": 7634,
+            "y": 2457,
+            "width": 43,
+            "height": 22
+          },
+          "style": {
+            "bgColor": null,
+            "textColor": "#000000",
+            "fontFamily": "Inter",
+            "fontWeight": 400,
+            "fontSize": 14,
+            "letterSpacing": 0.028000000417232516,
+            "lineHeight": 22
+          },
+          "text": "Onsite"
+        }
+      ]
+    },
+    {
+      "id": "679:580",
+      "name": "We're always looking for talented individuals. Upload your CV, and our HR team will contact you when a suitable opportunity becomes available",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6478,
+        "y": 2934,
+        "width": 430,
+        "height": 84
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Plus Jakarta Sans",
+        "fontWeight": 500,
+        "fontSize": 18,
+        "letterSpacing": 0,
+        "lineHeight": 28
+      },
+      "text": "We're always looking for talented individuals. Upload your CV, and our HR team will contact you when a suitable opportunity becomes available"
+    },
+    {
+      "id": "679:581",
+      "name": "Frame 335",
+      "type": "FRAME",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6478,
+        "y": 3057,
+        "width": 198,
+        "height": 47,
+        "cornerRadius": 100
+      },
+      "style": {
+        "bgColor": "#1565c0",
+        "textColor": null
+      },
+      "children": [
+        {
+          "id": "679:582",
+          "name": "Frame 63",
+          "type": "FRAME",
+          "layout": {
+            "mode": "HORIZONTAL",
+            "padding": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "gap": 12,
+            "x": 6499,
+            "y": 3063,
+            "width": 170,
+            "height": 35
+          },
+          "children": [
+            {
+              "id": "679:583",
+              "name": "Upload Your CV",
+              "type": "TEXT",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 6499,
+                "y": 3069,
+                "width": 123,
+                "height": 24
+              },
+              "style": {
+                "bgColor": null,
+                "textColor": "#f8fafc",
+                "fontFamily": "Inter",
+                "fontWeight": 600,
+                "fontSize": 16,
+                "letterSpacing": 0.08,
+                "lineHeight": 24
+              },
+              "text": "Upload Your CV"
+            },
+            {
+              "id": "679:584",
+              "name": "Ellipse 34",
+              "type": "ELLIPSE",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 6634,
+                "y": 3063,
+                "width": 35,
+                "height": 35
+              },
+              "style": {
+                "bgColor": "#f8fafc",
+                "textColor": null
+              }
+            },
+            {
+              "id": "679:585",
+              "name": "maki:arrow",
+              "type": "FRAME",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 6644,
+                "y": 3073,
+                "width": 15,
+                "height": 15
+              },
+              "children": [
+                {
+                  "id": "679:586",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "layout": {
+                    "mode": "NONE",
+                    "padding": [
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "gap": 0,
+                    "x": 6645,
+                    "y": 3075,
+                    "width": 14,
+                    "height": 11
+                  },
+                  "style": {
+                    "bgColor": "#1565c0",
+                    "textColor": null
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "679:587",
+      "name": "Together We Deliver Exceptional Care Every Single Day",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6474,
+        "y": 336,
+        "width": 706,
+        "height": 312
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Plus Jakarta Sans",
+        "fontWeight": 800,
+        "fontSize": 72,
+        "letterSpacing": -1.44,
+        "lineHeight": 104
+      },
+      "text": "Together We Deliver Exceptional Care \nEvery Single Day"
+    },
+    {
+      "id": "679:588",
+      "name": "Join a dedicated team committed to delivering exceptional healthcare while growing your career in an environment that values innovation, compassion, and professional excellence.",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6474,
+        "y": 721,
+        "width": 661,
+        "height": 90
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 18,
+        "letterSpacing": 0,
+        "lineHeight": 30
+      },
+      "text": "Join a dedicated team committed to delivering exceptional healthcare while growing your career in an environment that values innovation, compassion, and professional excellence."
+    },
+    {
+      "id": "679:589",
+      "name": "Frame 86",
+      "type": "FRAME",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6474,
+        "y": 884,
+        "width": 163,
+        "height": 47,
+        "cornerRadius": 100
+      },
+      "style": {
+        "bgColor": "#1565c0",
+        "textColor": null
+      },
+      "children": [
+        {
+          "id": "679:590",
+          "name": "Frame 63",
+          "type": "FRAME",
+          "layout": {
+            "mode": "HORIZONTAL",
+            "padding": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "gap": 12,
+            "x": 6495,
+            "y": 890,
+            "width": 135,
+            "height": 35
+          },
+          "children": [
+            {
+              "id": "679:591",
+              "name": "Contact Us",
+              "type": "TEXT",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 6495,
+                "y": 896,
+                "width": 88,
+                "height": 24
+              },
+              "style": {
+                "bgColor": null,
+                "textColor": "#f8fafc",
+                "fontFamily": "Inter",
+                "fontWeight": 600,
+                "fontSize": 16,
+                "letterSpacing": 0.08,
+                "lineHeight": 24
+              },
+              "text": "Contact Us"
+            },
+            {
+              "id": "679:592",
+              "name": "Ellipse 34",
+              "type": "ELLIPSE",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 6595,
+                "y": 890,
+                "width": 35,
+                "height": 35
+              },
+              "style": {
+                "bgColor": "#f8fafc",
+                "textColor": null
+              }
+            },
+            {
+              "id": "679:593",
+              "name": "maki:arrow",
+              "type": "FRAME",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 6605,
+                "y": 900,
+                "width": 15,
+                "height": 15
+              },
+              "children": [
+                {
+                  "id": "679:594",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "layout": {
+                    "mode": "NONE",
+                    "padding": [
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "gap": 0,
+                    "x": 6606,
+                    "y": 902,
+                    "width": 14,
+                    "height": 11
+                  },
+                  "style": {
+                    "bgColor": "#1565c0",
+                    "textColor": null
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "679:595",
+      "name": "Frame 384",
+      "type": "FRAME",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6473,
+        "y": 140,
+        "width": 1246,
+        "height": 48
+      },
+      "children": [
+        {
+          "id": "679:596",
+          "name": "Rectangle 242",
+          "type": "RECTANGLE",
+          "layout": {
+            "mode": "NONE",
+            "padding": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "gap": 0,
+            "x": 6473,
+            "y": 140,
+            "width": 136,
+            "height": 49
+          },
+          "isImage": true
+        },
+        {
+          "id": "679:597",
+          "name": "Frame 47",
+          "type": "FRAME",
+          "layout": {
+            "mode": "HORIZONTAL",
+            "padding": [
+              10,
+              25,
+              10,
+              25
+            ],
+            "gap": 30,
+            "x": 7562,
+            "y": 140,
+            "width": 157,
+            "height": 49,
+            "cornerRadius": 36
+          },
+          "style": {
+            "bgColor": "#1565c0",
+            "textColor": null
+          },
+          "children": [
+            {
+              "id": "679:598",
+              "name": "CONTACT US",
+              "type": "TEXT",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 7588,
+                "y": 153,
+                "width": 105,
+                "height": 24
+              },
+              "style": {
+                "bgColor": null,
+                "textColor": "#f8fafc",
+                "fontFamily": "Inter",
+                "fontWeight": 500,
+                "fontSize": 16,
+                "letterSpacing": 0.08,
+                "lineHeight": 24
+              },
+              "text": "CONTACT US"
+            }
+          ]
+        },
+        {
+          "id": "679:599",
+          "name": "Group 484",
+          "type": "GROUP",
+          "layout": {
+            "mode": "NONE",
+            "padding": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "gap": 0,
+            "x": 6697,
+            "y": 140,
+            "width": 777,
+            "height": 49
+          },
+          "children": [
+            {
+              "id": "679:600",
+              "name": "Group 70",
+              "type": "GROUP",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 6697,
+                "y": 140,
+                "width": 777,
+                "height": 49
+              },
+              "children": [
+                {
+                  "id": "679:601",
+                  "name": "Rectangle 243",
+                  "type": "RECTANGLE",
+                  "layout": {
+                    "mode": "NONE",
+                    "padding": [
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "gap": 0,
+                    "x": 6697,
+                    "y": 140,
+                    "width": 777,
+                    "height": 49,
+                    "cornerRadius": 20
+                  }
+                },
+                {
+                  "id": "679:602",
+                  "name": "Group 5",
+                  "type": "GROUP",
+                  "layout": {
+                    "mode": "NONE",
+                    "padding": [
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "gap": 0,
+                    "x": 6707,
+                    "y": 149,
+                    "width": 742,
+                    "height": 28,
+                    "cornerRadius": 10
+                  },
+                  "children": [
+                    {
+                      "id": "679:603",
+                      "name": "Frame 337",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "HORIZONTAL",
+                        "padding": [
+                          5,
+                          20,
+                          5,
+                          20
+                        ],
+                        "gap": 10,
+                        "x": 6707,
+                        "y": 149,
+                        "width": 89,
+                        "height": 28,
+                        "cornerRadius": 10
+                      }
+                    },
+                    {
+                      "id": "679:604",
+                      "name": "ABOUT US",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 6827,
+                        "y": 153,
+                        "width": 84,
+                        "height": 24
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#1e293b",
+                        "fontFamily": "Inter",
+                        "fontWeight": 600,
+                        "fontSize": 16,
+                        "letterSpacing": 0.08,
+                        "lineHeight": 24
+                      },
+                      "text": "ABOUT US"
+                    },
+                    {
+                      "id": "679:605",
+                      "name": "CORPORATE",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 6959,
+                        "y": 153,
+                        "width": 98,
+                        "height": 24
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#1e293b",
+                        "fontFamily": "Inter",
+                        "fontWeight": 500,
+                        "fontSize": 16,
+                        "letterSpacing": 0.08,
+                        "lineHeight": 24
+                      },
+                      "text": "CORPORATE"
+                    },
+                    {
+                      "id": "679:606",
+                      "name": "SERVICES",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7105,
+                        "y": 153,
+                        "width": 78,
+                        "height": 24
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#1e293b",
+                        "fontFamily": "Inter",
+                        "fontWeight": 500,
+                        "fontSize": 16,
+                        "letterSpacing": 0.08,
+                        "lineHeight": 24
+                      },
+                      "text": "SERVICES"
+                    },
+                    {
+                      "id": "679:607",
+                      "name": "JOIN US",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7231,
+                        "y": 153,
+                        "width": 65,
+                        "height": 24
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#00a6a6",
+                        "fontFamily": "Inter",
+                        "fontWeight": 500,
+                        "fontSize": 16,
+                        "letterSpacing": 0.08,
+                        "lineHeight": 24
+                      },
+                      "text": "JOIN US"
+                    },
+                    {
+                      "id": "679:608",
+                      "name": "CONTACT US",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7344,
+                        "y": 153,
+                        "width": 105,
+                        "height": 24
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#1e293b",
+                        "fontFamily": "Inter",
+                        "fontWeight": 500,
+                        "fontSize": 16,
+                        "letterSpacing": 0.08,
+                        "lineHeight": 24
+                      },
+                      "text": "CONTACT US"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "679:609",
+              "name": "HOME",
+              "type": "TEXT",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 6724,
+                "y": 153,
+                "width": 49,
+                "height": 24
+              },
+              "style": {
+                "bgColor": null,
+                "textColor": "#1e293b",
+                "fontFamily": "Inter",
+                "fontWeight": 500,
+                "fontSize": 16,
+                "letterSpacing": 0.08,
+                "lineHeight": 24
+              },
+              "text": "HOME"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "679:610",
+      "name": "Rectangle 894",
+      "type": "RECTANGLE",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7505,
+        "y": 296,
+        "width": 500,
+        "height": 697
+      },
+      "isImage": true
+    },
+    {
+      "id": "679:611",
+      "name": "Rectangle 892",
+      "type": "RECTANGLE",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6430,
+        "y": 1471,
+        "width": 1325,
+        "height": 809,
+        "cornerRadius": 30
+      },
+      "style": {
+        "bgColor": "#00c3d0",
+        "textColor": null
+      }
+    },
+    {
+      "id": "679:612",
+      "name": "Group 454",
+      "type": "GROUP",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7585,
+        "y": 3053,
+        "width": 50,
+        "height": 50
+      },
+      "children": [
+        {
+          "id": "679:613",
+          "name": "Rectangle 276",
+          "type": "RECTANGLE",
+          "layout": {
+            "mode": "NONE",
+            "padding": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "gap": 0,
+            "x": 7585,
+            "y": 3053,
+            "width": 50,
+            "height": 50,
+            "cornerRadius": 5
+          },
+          "style": {
+            "bgColor": "#1565c0",
+            "textColor": null
+          }
+        },
+        {
+          "id": "679:614",
+          "name": "weui:arrow-filled",
+          "type": "FRAME",
+          "layout": {
+            "mode": "NONE",
+            "padding": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "gap": 0,
+            "x": 7598,
+            "y": 3054,
+            "width": 24,
+            "height": 48
+          },
+          "children": [
+            {
+              "id": "679:615",
+              "name": "Vector",
+              "type": "VECTOR",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 7604,
+                "y": 3065,
+                "width": 15,
+                "height": 25
+              },
+              "style": {
+                "bgColor": "#f8fafc",
+                "textColor": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "679:616",
+      "name": "Group 455",
+      "type": "GROUP",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7512,
+        "y": 3054,
+        "width": 50,
+        "height": 50
+      },
+      "children": [
+        {
+          "id": "679:617",
+          "name": "Rectangle 276",
+          "type": "RECTANGLE",
+          "layout": {
+            "mode": "NONE",
+            "padding": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "gap": 0,
+            "x": 7512,
+            "y": 3054,
+            "width": 50,
+            "height": 50,
+            "cornerRadius": 5
+          },
+          "style": {
+            "bgColor": "#1565c0",
+            "textColor": null
+          }
+        },
+        {
+          "id": "679:618",
+          "name": "weui:arrow-filled",
+          "type": "FRAME",
+          "layout": {
+            "mode": "NONE",
+            "padding": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "gap": 0,
+            "x": 7525,
+            "y": 3055,
+            "width": 24,
+            "height": 48
+          },
+          "children": [
+            {
+              "id": "679:619",
+              "name": "Vector",
+              "type": "VECTOR",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 7528,
+                "y": 3066,
+                "width": 15,
+                "height": 25
+              },
+              "style": {
+                "bgColor": "#f8fafc",
+                "textColor": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "679:620",
+      "name": "Rectangle 892",
+      "type": "RECTANGLE",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7028,
+        "y": 2760,
+        "width": 333,
+        "height": 331,
+        "cornerRadius": 20
+      },
+      "style": {
+        "bgColor": "#f8fafc",
+        "textColor": null
+      }
+    },
+    {
+      "id": "679:621",
+      "name": "Rectangle 895",
+      "type": "RECTANGLE",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7408,
+        "y": 2673,
+        "width": 292,
+        "height": 243,
+        "cornerRadius": 20
+      },
+      "style": {
+        "bgColor": "#f8fafc",
+        "textColor": null
+      }
+    },
+    {
+      "id": "679:622",
+      "name": "General Practitioner (GP)",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7053,
+        "y": 2795,
+        "width": 255,
+        "height": 76
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Plus Jakarta Sans",
+        "fontWeight": 600,
+        "fontSize": 28,
+        "letterSpacing": 0,
+        "lineHeight": 38
+      },
+      "text": "General Practitioner (GP)"
+    },
+    {
+      "id": "679:623",
+      "name": "Provide comprehensive primary healthcare, diagnose medical conditions, and deliver patient-centered treatment in a collaborative clinical environment.",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7053,
+        "y": 2887,
+        "width": 293,
+        "height": 88
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#1e293b",
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "letterSpacing": 0.028000000417232516,
+        "lineHeight": 22
+      },
+      "text": "Provide comprehensive primary healthcare, diagnose medical conditions, and deliver patient-centered treatment in a collaborative clinical environment."
+    },
+    {
+      "id": "679:624",
+      "name": "Frame 87",
+      "type": "FRAME",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7053,
+        "y": 3006,
+        "width": 123,
+        "height": 47,
+        "cornerRadius": 100
+      },
+      "style": {
+        "bgColor": "#1565c0",
+        "textColor": null
+      },
+      "children": [
+        {
+          "id": "679:625",
+          "name": "Frame 63",
+          "type": "FRAME",
+          "layout": {
+            "mode": "HORIZONTAL",
+            "padding": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "gap": 12,
+            "x": 7074,
+            "y": 3012,
+            "width": 93,
+            "height": 35
+          },
+          "children": [
+            {
+              "id": "679:626",
+              "name": "Apply",
+              "type": "TEXT",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 7074,
+                "y": 3018,
+                "width": 46,
+                "height": 24
+              },
+              "style": {
+                "bgColor": null,
+                "textColor": "#f8fafc",
+                "fontFamily": "Inter",
+                "fontWeight": 600,
+                "fontSize": 16,
+                "letterSpacing": 0.08,
+                "lineHeight": 24
+              },
+              "text": "Apply"
+            },
+            {
+              "id": "679:627",
+              "name": "Ellipse 34",
+              "type": "ELLIPSE",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 7132,
+                "y": 3012,
+                "width": 35,
+                "height": 35
+              },
+              "style": {
+                "bgColor": "#f8fafc",
+                "textColor": null
+              }
+            },
+            {
+              "id": "679:628",
+              "name": "maki:arrow",
+              "type": "FRAME",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 7142,
+                "y": 3022,
+                "width": 15,
+                "height": 15
+              },
+              "children": [
+                {
+                  "id": "679:629",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "layout": {
+                    "mode": "NONE",
+                    "padding": [
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "gap": 0,
+                    "x": 7143,
+                    "y": 3024,
+                    "width": 14,
+                    "height": 11
+                  },
+                  "style": {
+                    "bgColor": "#1565c0",
+                    "textColor": null
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "679:630",
+      "name": "Registered Nurse",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7421,
+        "y": 2687,
+        "width": 255,
+        "height": 38
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#000000",
+        "fontFamily": "Plus Jakarta Sans",
+        "fontWeight": 600,
+        "fontSize": 28,
+        "letterSpacing": 0,
+        "lineHeight": 38
+      },
+      "text": "Registered Nurse"
+    },
+    {
+      "id": "679:631",
+      "name": "Deliver compassionate patient care, assist medical professionals, and ensure high standards of clinical excellence across healthcare services.",
+      "type": "TEXT",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7421,
+        "y": 2740,
+        "width": 264,
+        "height": 88
+      },
+      "style": {
+        "bgColor": null,
+        "textColor": "#000000",
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "letterSpacing": 0.028000000417232516,
+        "lineHeight": 22
+      },
+      "text": "Deliver compassionate patient care, assist medical professionals, and ensure high standards of clinical excellence across healthcare services."
+    },
+    {
+      "id": "679:632",
+      "name": "Frame 334",
+      "type": "FRAME",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7421,
+        "y": 2856,
+        "width": 123,
+        "height": 47,
+        "cornerRadius": 100
+      },
+      "style": {
+        "bgColor": "#1565c0",
+        "textColor": null
+      },
+      "children": [
+        {
+          "id": "679:633",
+          "name": "Frame 63",
+          "type": "FRAME",
+          "layout": {
+            "mode": "HORIZONTAL",
+            "padding": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "gap": 12,
+            "x": 7442,
+            "y": 2862,
+            "width": 93,
+            "height": 35
+          },
+          "children": [
+            {
+              "id": "679:634",
+              "name": "Apply",
+              "type": "TEXT",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 7442,
+                "y": 2868,
+                "width": 46,
+                "height": 24
+              },
+              "style": {
+                "bgColor": null,
+                "textColor": "#f8fafc",
+                "fontFamily": "Inter",
+                "fontWeight": 600,
+                "fontSize": 16,
+                "letterSpacing": 0.08,
+                "lineHeight": 24
+              },
+              "text": "Apply"
+            },
+            {
+              "id": "679:635",
+              "name": "Ellipse 34",
+              "type": "ELLIPSE",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 7500,
+                "y": 2862,
+                "width": 35,
+                "height": 35
+              },
+              "style": {
+                "bgColor": "#f8fafc",
+                "textColor": null
+              }
+            },
+            {
+              "id": "679:636",
+              "name": "maki:arrow",
+              "type": "FRAME",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 7510,
+                "y": 2872,
+                "width": 15,
+                "height": 15
+              },
+              "children": [
+                {
+                  "id": "679:637",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "layout": {
+                    "mode": "NONE",
+                    "padding": [
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "gap": 0,
+                    "x": 7511,
+                    "y": 2874,
+                    "width": 14,
+                    "height": 11
+                  },
+                  "style": {
+                    "bgColor": "#1565c0",
+                    "textColor": null
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "679:638",
+      "name": "Rectangle 999",
+      "type": "RECTANGLE",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 7136,
+        "y": 291,
+        "width": 557,
+        "height": 713
+      },
+      "isImage": true
+    },
+    {
+      "id": "679:639",
+      "name": "Group 690",
+      "type": "GROUP",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6478,
+        "y": 3351,
+        "width": 1230,
+        "height": 243
+      },
+      "children": [
+        {
+          "id": "679:640",
+          "name": "Group 691",
+          "type": "GROUP",
+          "layout": {
+            "mode": "NONE",
+            "padding": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "gap": 0,
+            "x": 7167,
+            "y": 3351,
+            "width": 541,
+            "height": 243,
+            "cornerRadius": 100
+          },
+          "children": [
+            {
+              "id": "679:641",
+              "name": "Have Questions? We're Here to Help",
+              "type": "TEXT",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 7167,
+                "y": 3351,
+                "width": 541,
+                "height": 136
+              },
+              "style": {
+                "bgColor": null,
+                "textColor": "#1e293b",
+                "fontFamily": "Plus Jakarta Sans",
+                "fontWeight": 800,
+                "fontSize": 56,
+                "letterSpacing": -0.84,
+                "lineHeight": 68
+              },
+              "text": "Have Questions?\n We're Here to Help"
+            },
+            {
+              "id": "679:642",
+              "name": "Frame 62",
+              "type": "FRAME",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 7313,
+                "y": 3547,
+                "width": 246,
+                "height": 47,
+                "cornerRadius": 100
+              },
+              "style": {
+                "bgColor": "#1565c0",
+                "textColor": null
+              },
+              "children": [
+                {
+                  "id": "679:643",
+                  "name": "Frame 63",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "HORIZONTAL",
+                    "padding": [
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "gap": 12,
+                    "x": 7334,
+                    "y": 3553,
+                    "width": 216,
+                    "height": 35
+                  },
+                  "children": [
+                    {
+                      "id": "679:644",
+                      "name": "Book an Appointment",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7334,
+                        "y": 3559,
+                        "width": 169,
+                        "height": 24
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#f8fafc",
+                        "fontFamily": "Inter",
+                        "fontWeight": 600,
+                        "fontSize": 16,
+                        "letterSpacing": 0.08,
+                        "lineHeight": 24
+                      },
+                      "text": "Book an Appointment"
+                    },
+                    {
+                      "id": "679:645",
+                      "name": "Ellipse 34",
+                      "type": "ELLIPSE",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7515,
+                        "y": 3553,
+                        "width": 35,
+                        "height": 35
+                      },
+                      "style": {
+                        "bgColor": "#f8fafc",
+                        "textColor": null
+                      }
+                    },
+                    {
+                      "id": "679:646",
+                      "name": "maki:arrow",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7525,
+                        "y": 3563,
+                        "width": 15,
+                        "height": 15
+                      },
+                      "children": [
+                        {
+                          "id": "679:647",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "layout": {
+                            "mode": "NONE",
+                            "padding": [
+                              0,
+                              0,
+                              0,
+                              0
+                            ],
+                            "gap": 0,
+                            "x": 7526,
+                            "y": 3565,
+                            "width": 14,
+                            "height": 11
+                          },
+                          "style": {
+                            "bgColor": "#1565c0",
+                            "textColor": null
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "679:648",
+          "name": "Rectangle 1018",
+          "type": "RECTANGLE",
+          "layout": {
+            "mode": "NONE",
+            "padding": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "gap": 0,
+            "x": 6478,
+            "y": 3351,
+            "width": 601,
+            "height": 243
+          },
+          "isImage": true
+        }
+      ]
+    },
+    {
+      "id": "679:649",
+      "name": "Group 652",
+      "type": "GROUP",
+      "layout": {
+        "mode": "NONE",
+        "padding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "gap": 0,
+        "x": 6373,
+        "y": 3732,
+        "width": 1440,
+        "height": 701
+      },
+      "children": [
+        {
+          "id": "679:650",
+          "name": "Rectangle 940",
+          "type": "RECTANGLE",
+          "layout": {
+            "mode": "NONE",
+            "padding": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "gap": 0,
+            "x": 6373,
+            "y": 3732,
+            "width": 1440,
+            "height": 701
+          },
+          "isImage": true
+        },
+        {
+          "id": "679:651",
+          "name": "Group 631",
+          "type": "GROUP",
+          "layout": {
+            "mode": "NONE",
+            "padding": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "gap": 0,
+            "x": 6411,
+            "y": 3762,
+            "width": 1364,
+            "height": 634
+          },
+          "children": [
+            {
+              "id": "679:652",
+              "name": "Rectangle 885",
+              "type": "RECTANGLE",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 6411,
+                "y": 3762,
+                "width": 1364,
+                "height": 634,
+                "cornerRadius": 20
+              },
+              "style": {
+                "bgColor": "#f8fafc",
+                "textColor": null
+              }
+            },
+            {
+              "id": "679:653",
+              "name": "Group 53",
+              "type": "GROUP",
+              "layout": {
+                "mode": "NONE",
+                "padding": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "gap": 0,
+                "x": 6473,
+                "y": 3840,
+                "width": 1240,
+                "height": 477
+              },
+              "children": [
+                {
+                  "id": "679:654",
+                  "name": "Group 48",
+                  "type": "GROUP",
+                  "layout": {
+                    "mode": "NONE",
+                    "padding": [
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "gap": 0,
+                    "x": 6513,
+                    "y": 3840,
+                    "width": 363,
+                    "height": 331
+                  },
+                  "children": [
+                    {
+                      "id": "679:655",
+                      "name": "Rectangle 286",
+                      "type": "RECTANGLE",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 6513,
+                        "y": 3840,
+                        "width": 232,
+                        "height": 69
+                      },
+                      "isImage": true
+                    },
+                    {
+                      "id": "679:656",
+                      "name": "Prime Medicare Colombo 19, St Albans Place, Colombo",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 6513,
+                        "y": 3964,
+                        "width": 248,
+                        "height": 55
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#1e293b",
+                        "fontFamily": "Plus Jakarta Sans",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "letterSpacing": 0,
+                        "lineHeight": 28
+                      },
+                      "text": "Prime Medicare Colombo 19, St Albans Place, Colombo"
+                    },
+                    {
+                      "id": "679:657",
+                      "name": "Ellipse 36",
+                      "type": "ELLIPSE",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 6513,
+                        "y": 4055,
+                        "width": 50,
+                        "height": 49
+                      },
+                      "style": {
+                        "bgColor": "#1e293b",
+                        "textColor": null
+                      }
+                    },
+                    {
+                      "id": "679:658",
+                      "name": "Ellipse 37",
+                      "type": "ELLIPSE",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 6513,
+                        "y": 4122,
+                        "width": 50,
+                        "height": 49
+                      },
+                      "style": {
+                        "bgColor": "#1e293b",
+                        "textColor": null
+                      }
+                    },
+                    {
+                      "id": "679:659",
+                      "name": "ic:baseline-email",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 6526,
+                        "y": 4067,
+                        "width": 24,
+                        "height": 24
+                      },
+                      "children": [
+                        {
+                          "id": "679:660",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "layout": {
+                            "mode": "NONE",
+                            "padding": [
+                              0,
+                              0,
+                              0,
+                              0
+                            ],
+                            "gap": 0,
+                            "x": 6528,
+                            "y": 4071,
+                            "width": 20,
+                            "height": 16
+                          },
+                          "style": {
+                            "bgColor": "#00a6a6",
+                            "textColor": null
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "679:661",
+                      "name": "famicons:call",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 6526,
+                        "y": 4135,
+                        "width": 24,
+                        "height": 24
+                      },
+                      "children": [
+                        {
+                          "id": "679:662",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "layout": {
+                            "mode": "NONE",
+                            "padding": [
+                              0,
+                              0,
+                              0,
+                              0
+                            ],
+                            "gap": 0,
+                            "x": 6528,
+                            "y": 4136,
+                            "width": 21,
+                            "height": 21
+                          },
+                          "style": {
+                            "bgColor": "#00a6a6",
+                            "textColor": null
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "679:663",
+                      "name": "011 424 2030",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 6590,
+                        "y": 4066,
+                        "width": 115,
+                        "height": 27
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#1e293b",
+                        "fontFamily": "Plus Jakarta Sans",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "letterSpacing": 0,
+                        "lineHeight": 28
+                      },
+                      "text": "011 424 2030"
+                    },
+                    {
+                      "id": "679:664",
+                      "name": "support@primemedicareltd.com",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 6590,
+                        "y": 4126,
+                        "width": 286,
+                        "height": 27
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#1e293b",
+                        "fontFamily": "Plus Jakarta Sans",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "letterSpacing": 0,
+                        "lineHeight": 28
+                      },
+                      "text": "support@primemedicareltd.com"
+                    }
+                  ]
+                },
+                {
+                  "id": "679:665",
+                  "name": "Group 49",
+                  "type": "GROUP",
+                  "layout": {
+                    "mode": "NONE",
+                    "padding": [
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "gap": 0,
+                    "x": 7127,
+                    "y": 3903,
+                    "width": 124,
+                    "height": 268
+                  },
+                  "children": [
+                    {
+                      "id": "679:666",
+                      "name": "Quick Links",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7127,
+                        "y": 3903,
+                        "width": 124,
+                        "height": 31
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#1e293b",
+                        "fontFamily": "Plus Jakarta Sans",
+                        "fontWeight": 500,
+                        "fontSize": 22,
+                        "letterSpacing": 0,
+                        "lineHeight": 32
+                      },
+                      "text": "Quick  Links"
+                    },
+                    {
+                      "id": "679:667",
+                      "name": "Home",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7163,
+                        "y": 3958,
+                        "width": 53,
+                        "height": 27
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#1e293b",
+                        "fontFamily": "Plus Jakarta Sans",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "letterSpacing": 0,
+                        "lineHeight": 28
+                      },
+                      "text": "Home"
+                    },
+                    {
+                      "id": "679:668",
+                      "name": "About Us",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7150,
+                        "y": 3995,
+                        "width": 79,
+                        "height": 27
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#1e293b",
+                        "fontFamily": "Plus Jakarta Sans",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "letterSpacing": 0,
+                        "lineHeight": 28
+                      },
+                      "text": "About Us"
+                    },
+                    {
+                      "id": "679:669",
+                      "name": "Services",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7153,
+                        "y": 4032,
+                        "width": 74,
+                        "height": 27
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#1e293b",
+                        "fontFamily": "Plus Jakarta Sans",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "letterSpacing": 0,
+                        "lineHeight": 28
+                      },
+                      "text": "Services"
+                    },
+                    {
+                      "id": "679:670",
+                      "name": "Corporate",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7144,
+                        "y": 4069,
+                        "width": 91,
+                        "height": 27
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#1e293b",
+                        "fontFamily": "Plus Jakarta Sans",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "letterSpacing": 0,
+                        "lineHeight": 28
+                      },
+                      "text": "Corporate"
+                    },
+                    {
+                      "id": "679:671",
+                      "name": "Join Us",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7160,
+                        "y": 4107,
+                        "width": 59,
+                        "height": 27
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#1e293b",
+                        "fontFamily": "Plus Jakarta Sans",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "letterSpacing": 0,
+                        "lineHeight": 28
+                      },
+                      "text": "Join Us"
+                    },
+                    {
+                      "id": "679:672",
+                      "name": "Contact Us",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7141,
+                        "y": 4144,
+                        "width": 97,
+                        "height": 27
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#1e293b",
+                        "fontFamily": "Plus Jakarta Sans",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "letterSpacing": 0,
+                        "lineHeight": 28
+                      },
+                      "text": "Contact Us"
+                    }
+                  ]
+                },
+                {
+                  "id": "679:673",
+                  "name": "Group 50",
+                  "type": "GROUP",
+                  "layout": {
+                    "mode": "NONE",
+                    "padding": [
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "gap": 0,
+                    "x": 7502,
+                    "y": 3907,
+                    "width": 167,
+                    "height": 115
+                  },
+                  "children": [
+                    {
+                      "id": "679:674",
+                      "name": "Legal",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7556,
+                        "y": 3907,
+                        "width": 58,
+                        "height": 31
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#1e293b",
+                        "fontFamily": "Plus Jakarta Sans",
+                        "fontWeight": 500,
+                        "fontSize": 22,
+                        "letterSpacing": 0,
+                        "lineHeight": 32
+                      },
+                      "text": "Legal"
+                    },
+                    {
+                      "id": "679:675",
+                      "name": "Terms & Conditions",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7502,
+                        "y": 3962,
+                        "width": 167,
+                        "height": 27
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#1e293b",
+                        "fontFamily": "Plus Jakarta Sans",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "letterSpacing": 0,
+                        "lineHeight": 28
+                      },
+                      "text": "Terms & Conditions"
+                    },
+                    {
+                      "id": "679:676",
+                      "name": "Privacy Policy",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7526,
+                        "y": 3995,
+                        "width": 119,
+                        "height": 27
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#1e293b",
+                        "fontFamily": "Plus Jakarta Sans",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "letterSpacing": 0,
+                        "lineHeight": 28
+                      },
+                      "text": "Privacy Policy"
+                    }
+                  ]
+                },
+                {
+                  "id": "679:677",
+                  "name": "Group 52",
+                  "type": "GROUP",
+                  "layout": {
+                    "mode": "NONE",
+                    "padding": [
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "gap": 0,
+                    "x": 7497,
+                    "y": 4076,
+                    "width": 176,
+                    "height": 88
+                  },
+                  "children": [
+                    {
+                      "id": "679:678",
+                      "name": "Group 51",
+                      "type": "GROUP",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7517,
+                        "y": 4076,
+                        "width": 137,
+                        "height": 31
+                      },
+                      "children": [
+                        {
+                          "id": "679:679",
+                          "name": "Follow Us On",
+                          "type": "TEXT",
+                          "layout": {
+                            "mode": "NONE",
+                            "padding": [
+                              0,
+                              0,
+                              0,
+                              0
+                            ],
+                            "gap": 0,
+                            "x": 7517,
+                            "y": 4076,
+                            "width": 137,
+                            "height": 31
+                          },
+                          "style": {
+                            "bgColor": null,
+                            "textColor": "#1e293b",
+                            "fontFamily": "Plus Jakarta Sans",
+                            "fontWeight": 500,
+                            "fontSize": 22,
+                            "letterSpacing": 0,
+                            "lineHeight": 32
+                          },
+                          "text": "Follow Us On"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "679:680",
+                      "name": "ri:whatsapp-fill",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7497,
+                        "y": 4129,
+                        "width": 36,
+                        "height": 36
+                      },
+                      "children": [
+                        {
+                          "id": "679:681",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "layout": {
+                            "mode": "NONE",
+                            "padding": [
+                              0,
+                              0,
+                              0,
+                              0
+                            ],
+                            "gap": 0,
+                            "x": 7500,
+                            "y": 4132,
+                            "width": 30,
+                            "height": 30
+                          },
+                          "style": {
+                            "bgColor": "#1e293b",
+                            "textColor": null
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "679:682",
+                      "name": "ic:baseline-facebook",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7567,
+                        "y": 4129,
+                        "width": 36,
+                        "height": 36
+                      },
+                      "children": [
+                        {
+                          "id": "679:683",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "layout": {
+                            "mode": "NONE",
+                            "padding": [
+                              0,
+                              0,
+                              0,
+                              0
+                            ],
+                            "gap": 0,
+                            "x": 7570,
+                            "y": 4132,
+                            "width": 30,
+                            "height": 30
+                          },
+                          "style": {
+                            "bgColor": "#1e293b",
+                            "textColor": null
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "679:684",
+                      "name": "mingcute:instagram-fill",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7637,
+                        "y": 4129,
+                        "width": 36,
+                        "height": 36
+                      },
+                      "children": [
+                        {
+                          "id": "679:685",
+                          "name": "Group",
+                          "type": "GROUP",
+                          "layout": {
+                            "mode": "NONE",
+                            "padding": [
+                              0,
+                              0,
+                              0,
+                              0
+                            ],
+                            "gap": 0,
+                            "x": 7642,
+                            "y": 4133,
+                            "width": 27,
+                            "height": 31
+                          },
+                          "children": [
+                            {
+                              "id": "679:686",
+                              "name": "Vector",
+                              "type": "VECTOR",
+                              "layout": {
+                                "mode": "NONE",
+                                "padding": [
+                                  0,
+                                  0,
+                                  0,
+                                  0
+                                ],
+                                "gap": 0,
+                                "x": 7655,
+                                "y": 4163,
+                                "width": 1,
+                                "height": 1
+                              }
+                            },
+                            {
+                              "id": "679:687",
+                              "name": "Vector",
+                              "type": "VECTOR",
+                              "layout": {
+                                "mode": "NONE",
+                                "padding": [
+                                  0,
+                                  0,
+                                  0,
+                                  0
+                                ],
+                                "gap": 0,
+                                "x": 7642,
+                                "y": 4133,
+                                "width": 27,
+                                "height": 27
+                              },
+                              "style": {
+                                "bgColor": "#1e293b",
+                                "textColor": null
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "679:688",
+                  "name": "Group 514",
+                  "type": "GROUP",
+                  "layout": {
+                    "mode": "NONE",
+                    "padding": [
+                      0,
+                      0,
+                      0,
+                      0
+                    ],
+                    "gap": 0,
+                    "x": 6473,
+                    "y": 4283,
+                    "width": 1240,
+                    "height": 34
+                  },
+                  "children": [
+                    {
+                      "id": "679:689",
+                      "name": "Line 8",
+                      "type": "LINE",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 6473,
+                        "y": 4283,
+                        "width": 1240
+                      },
+                      "style": {
+                        "bgColor": "#1e293b",
+                        "textColor": null
+                      }
+                    },
+                    {
+                      "id": "679:690",
+                      "name": "Copyright © 2026 Prime Medicare Colombo",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 7421,
+                        "y": 4296,
+                        "width": 292,
+                        "height": 21
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#1e293b",
+                        "fontFamily": "Inter",
+                        "fontWeight": 400,
+                        "fontSize": 14,
+                        "letterSpacing": 0.028000000417232516,
+                        "lineHeight": 22
+                      },
+                      "text": "Copyright © 2026 Prime Medicare Colombo"
+                    },
+                    {
+                      "id": "679:691",
+                      "name": "All rights reserved.",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "NONE",
+                        "padding": [
+                          0,
+                          0,
+                          0,
+                          0
+                        ],
+                        "gap": 0,
+                        "x": 6473,
+                        "y": 4296,
+                        "width": 129,
+                        "height": 21
+                      },
+                      "style": {
+                        "bgColor": null,
+                        "textColor": "#1e293b",
+                        "fontFamily": "Inter",
+                        "fontWeight": 400,
+                        "fontSize": 14,
+                        "letterSpacing": 0.028000000417232516,
+                        "lineHeight": 22
+                      },
+                      "text": "All rights reserved."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

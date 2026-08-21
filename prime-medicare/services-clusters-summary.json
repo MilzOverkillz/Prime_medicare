@@ -1,0 +1,265 @@
+[
+  {
+    "id": "cluster-1",
+    "yRange": [
+      92,
+      215
+    ],
+    "memberNames": [
+      "Rectangle 941",
+      "Frame 368"
+    ],
+    "memberIds": [
+      "679:253",
+      "679:254"
+    ],
+    "combinedTexts": [
+      "CONTACT US",
+      "ABOUT US",
+      "CORPORATE",
+      "SERVICES"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-2",
+    "yRange": [
+      310,
+      983
+    ],
+    "memberNames": [
+      "Services",
+      "Rectangle 1020",
+      "Comprehensive care tailored to your health needs.",
+      "At Prime Medicare, we deliver comprehensive healthcare services through a team of skilled professionals and modern medical solutions. Our commitment is to provide accessible, efficient, and compassionate care that helps you achieve better health outcomes.",
+      "Frame 63",
+      "Group 689",
+      "Rectangle 1019",
+      "Qualified Professionals",
+      "Personalized Care Plans",
+      "Available Across Colombo",
+      "Group 692",
+      "Group 693",
+      "Group 694"
+    ],
+    "memberIds": [
+      "679:398",
+      "679:410",
+      "679:396",
+      "679:397",
+      "679:399",
+      "679:411",
+      "679:409",
+      "679:432",
+      "679:433",
+      "679:434",
+      "679:423",
+      "679:426",
+      "679:429"
+    ],
+    "combinedTexts": [
+      "Services",
+      "Comprehensive care tailored to your health needs.",
+      "At Prime Medicare, we deliver comprehensive healthcare services through a team o",
+      "Explore Services",
+      "500+",
+      "Patients Served \nwith Care",
+      "Qualified Professionals",
+      "Personalized Care Plans"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-3",
+    "yRange": [
+      1112,
+      1229
+    ],
+    "memberNames": [
+      "Our Services",
+      "Service Categories"
+    ],
+    "memberIds": [
+      "679:270",
+      "679:269"
+    ],
+    "combinedTexts": [
+      "Our Services",
+      "Service Categories"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-4",
+    "yRange": [
+      1314,
+      2596
+    ],
+    "memberNames": [
+      "Group 696",
+      "Group 705",
+      "Group 707",
+      "Group 706",
+      "raphael:lab",
+      "medical-icon:i-dental",
+      "material-symbols:folder-special",
+      "Group 708",
+      "Group 709",
+      "Group 710",
+      "mdi:medicine-bottle",
+      "material-symbols:corporate-fare-rounded",
+      "ri:psychotherapy-fill",
+      "Group 711",
+      "Group 712",
+      "Group 713",
+      "Group 714",
+      "icon-park-solid:electrocardiogram",
+      "material-symbols:radiology",
+      "tabler:vaccine",
+      "mingcute:brain-fill"
+    ],
+    "memberIds": [
+      "679:437",
+      "679:466",
+      "679:471",
+      "679:476",
+      "679:516",
+      "679:518",
+      "679:520",
+      "679:481",
+      "679:486",
+      "679:491",
+      "679:522",
+      "679:524",
+      "679:526",
+      "679:496",
+      "679:501",
+      "679:506",
+      "679:511",
+      "679:528",
+      "679:535",
+      "679:537",
+      "679:539"
+    ],
+    "combinedTexts": [
+      "Medicals",
+      "We specialize in carrying out Staff Health Screenings, routine Medical Examinati",
+      "Learn More",
+      "We specialize in carrying out Staff Health Screenings, routine Medical Examinati",
+      "Accurate testing for reliable health insights.",
+      "Laboratary",
+      "Complete care for healthy, confident smiles.",
+      "Dental Unit"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-5",
+    "yRange": [
+      2716,
+      3585
+    ],
+    "memberNames": [
+      "Individual Services",
+      "Home Care By Prime Medicare",
+      "Rectangle 957",
+      "Receive high-quality medical care in the comfort of your home with Hospital@Home by Prime Medicare. Our service provides safe, convenient, and personalized healthcare support for patients recovering at home.",
+      "Rectangle 1015",
+      "Home Care Services",
+      "Group 700",
+      "IV Drips & Antibiotics",
+      "Benefits:",
+      "Group 701",
+      "Continue hospital-level care at home.",
+      "Nebulization",
+      "Group 702",
+      "Catheter Care",
+      "Recover comfortably with professional medical support.",
+      "Group 703",
+      "Oxygen Therapy",
+      "Group 629",
+      "Group 704",
+      "Doctor & Nurse Home Visits",
+      "Frame 85"
+    ],
+    "memberIds": [
+      "679:324",
+      "679:326",
+      "679:321",
+      "679:325",
+      "679:329",
+      "679:335",
+      "679:450",
+      "679:330",
+      "679:320",
+      "679:453",
+      "679:322",
+      "679:331",
+      "679:456",
+      "679:332",
+      "679:323",
+      "679:459",
+      "679:333",
+      "679:327",
+      "679:462",
+      "679:334",
+      "679:336"
+    ],
+    "combinedTexts": [
+      "Individual Services",
+      "Home  Care  By  Prime  Medicare",
+      "Receive high-quality medical care in the comfort of your home with Hospital@Home",
+      "Home Care Services",
+      "IV Drips & Antibiotics",
+      "Benefits:",
+      "Continue hospital-level care at home.",
+      "Nebulization"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-6",
+    "yRange": [
+      3840,
+      4772
+    ],
+    "memberNames": [
+      "Frame 381"
+    ],
+    "memberIds": [
+      "679:271"
+    ],
+    "combinedTexts": [
+      "5. Can I receive hospital-level care at home?",
+      "4. Are home care services provided by trained medical professionals?",
+      "6. How can I book a Home Care service?",
+      "3. What services are available at home?"
+    ],
+    "hasComponentInstance": false
+  },
+  {
+    "id": "cluster-7",
+    "yRange": [
+      4916,
+      6211
+    ],
+    "memberNames": [
+      "Group 682",
+      "Group 578",
+      "Book your appointment today and experience care you can trust"
+    ],
+    "memberIds": [
+      "679:392",
+      "679:342",
+      "679:465"
+    ],
+    "combinedTexts": [
+      "Your Health Start With \nOne Appointment",
+      "Book an Appointment",
+      "Prime Medicare Colombo 19, St Albans Place, Colombo",
+      "011 424 2030",
+      "Book your appointment today and experience care you can trust"
+    ],
+    "hasComponentInstance": false
+  }
+]
