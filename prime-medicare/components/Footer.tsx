@@ -46,91 +46,99 @@ const socialLinks = [
 
 export default function Footer() {
   return (
-    <footer className="relative w-full overflow-hidden rounded-t-[32px]">
-      {/* Background image — fills the footer responsively */}
-      <div
-        className="absolute inset-0 bg-cover bg-bottom"
-        style={{ backgroundImage: "url('/images/footer-bg.png')" }}
-      />
-      <div className="absolute inset-0 bg-gradient-to-b from-[#eaf3fb] via-[#eaf3fb]/85 to-[#eaf3fb]/30" />
+    <footer className="px-4 pb-4 md:px-8">
+      {/* OUTER box — image only, no overlay here */}
+      <div className="relative mx-auto min-h-[634px] w-full max-w-[1440px] overflow-hidden ">
+        <Image
+          src="/images/footer-bg.png"
+          alt=""
+          fill
+          className="object-cover object-bottom"
+          aria-hidden="true"
+        />
 
-      <div className="relative z-10 mx-auto max-w-[1364px] px-6 py-12 md:px-10">
-        <div className="grid grid-cols-1 gap-10 md:grid-cols-3">
-          <div>
-            <Image
-              src="/images/footer.png"
-              alt="Prime Medicare Private GP"
-              width={160}
-              height={48}
-              className="h-10 w-auto"
-            />
+        {/* INNER box — sits inset from the outer edges, own translucent bg */}
+        <div className="absolute inset-4 rounded-[24px] bg-[#f8fafc]/40 backdrop-blur-sm md:inset-6">
+          <div className="mt-30 mx-auto flex  w-full max-w-[1314px] flex-col justify-between px-6 py-12 md:px-10 md:py-8">
+            <div className="mt-2 grid grid-cols-1  gap-6 md:grid-cols-3">
+              <div>
+                <Image
+                  src="/images/footer.png"
+                  alt="Prime Medicare Private GP"
+                  width={200}
+                  height={80}
+                  className="h-18 w-auto"
+                />
 
-            <p className="mt-4 text-sm leading-relaxed text-[#1e293b]">
-              Prime Medicare Colombo
-              <br />
-              19, St Albans Place, Colombo
-            </p>
+                <p className="mt-4 text-sm leading-relaxed text-[#1e293b]">
+                  Prime Medicare Colombo
+                  <br />
+                  19, St Albans Place, Colombo
+                </p>
 
-            <div className="mt-4 flex flex-col gap-3">
-              <a href="tel:0114242030" className="flex items-center gap-3 text-sm text-[#1e293b]">
-                <span className="flex h-8 w-8 items-center justify-center rounded-full bg-[#1e293b] text-white">
-                  <Phone size={14} />
-                </span>
-                011 424 2030
-              </a>
-              <a href="mailto:support@primemedicareltd.com" className="flex items-center gap-3 text-sm text-[#1e293b]">
-                <span className="flex h-8 w-8 items-center justify-center rounded-full bg-[#1e293b] text-white">
-                  <Mail size={14} />
-                </span>
-                support@primemedicareltd.com
-              </a>
+                <div className="mt-10 flex flex-col gap-3">
+                  <a href="tel:0114242030" className="flex items-center gap-3 text-sm text-[#1e293b]">
+                    <span className="flex h-8 w-8 items-center justify-center rounded-full bg-[#1e293b] text-white">
+                      <Phone size={14} />
+                    </span>
+                    011 424 2030
+                  </a>
+                  <a href="mailto:support@primemedicareltd.com" className="flex items-center gap-3 text-sm text-[#1e293b]">
+                    <span className="flex h-8 w-8 items-center justify-center rounded-full bg-[#1e293b] text-white">
+                      <Mail size={14} />
+                    </span>
+                    support@primemedicareltd.com
+                  </a>
+                </div>
+              </div>
+
+              <div className="text-center">
+                <h3 className="mb-4 text-base font-semibold text-[#1e293b]">Quick Links</h3>
+                <ul className="flex flex-col gap-2">
+                  {quickLinks.map((link) => (
+                    <li key={link.label}>
+                      <a href={link.href} className="text-sm text-[#1e293b] transition-colors hover:text-[#2563eb]">
+                        {link.label}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+
+              <div className="text-center md:text-right">
+                <h3 className="mb-4 text-base font-semibold text-[#1e293b]">Legal</h3>
+                <ul className="flex flex-col gap-2">
+                  {legalLinks.map((link) => (
+                    <li key={link.label}>
+                      <a href={link.href} className="text-sm text-[#1e293b] transition-colors hover:text-[#2563eb]">
+                        {link.label}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+
+                <h3 className="mb-4 mt-10 text-base font-semibold text-[#1e293b]">Follow Us On</h3>
+                <div className="flex justify-center gap-3 md:justify-end">
+                  {socialLinks.map(({ label, href, Icon }) => (
+                    
+                    <a
+                      key={label}
+                      href={href}
+                      aria-label={label}
+                      className="flex h-9 w-9 items-center justify-center rounded-full bg-[#0f172a] text-white transition-colors hover:bg-[#2563eb]"
+                    >
+                      <Icon />
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </div>
+
+            <div className="mt-18 flex flex-col items-center justify-between gap-2 border-t border-slate-300 pt-6 text-xs text-[#1e293b] md:flex-row">
+              <p>All rights reserved.</p>
+              <p>Copyright © 2026 Prime Medicare Colombo</p>
             </div>
           </div>
-
-          <div className="text-center">
-            <h3 className="mb-4 text-base font-semibold text-[#1e293b]">Quick Links</h3>
-            <ul className="flex flex-col gap-2">
-              {quickLinks.map((link) => (
-                <li key={link.label}>
-                  <a href={link.href} className="text-sm text-[#1e293b] transition-colors hover:text-[#2563eb]">
-                    {link.label}
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          <div className="text-center md:text-right">
-            <h3 className="mb-4 text-base font-semibold text-[#1e293b]">Legal</h3>
-            <ul className="flex flex-col gap-2">
-              {legalLinks.map((link) => (
-                <li key={link.label}>
-                  <a href={link.href} className="text-sm text-[#1e293b] transition-colors hover:text-[#2563eb]">
-                    {link.label}
-                  </a>
-                </li>
-              ))}
-            </ul>
-
-            <h3 className="mb-4 mt-6 text-base font-semibold text-[#1e293b]">Follow Us On</h3>
-            <div className="flex justify-center gap-3 md:justify-end">
-              {socialLinks.map(({ label, href, Icon }) => (
-                <a
-                  key={label}
-                  href={href}
-                  aria-label={label}
-                  className="flex h-9 w-9 items-center justify-center rounded-full bg-[#0f172a] text-white transition-colors hover:bg-[#2563eb]"
-                >
-                  <Icon />
-                </a>
-              ))}
-            </div>
-          </div>
-        </div>
-
-        <div className="mt-10 flex flex-col items-center justify-between gap-2 border-t border-slate-300 pt-6 text-xs text-[#1e293b] md:flex-row">
-          <p>All rights reserved.</p>
-          <p>Copyright © 2026 Prime Medicare Colombo</p>
         </div>
       </div>
     </footer>
